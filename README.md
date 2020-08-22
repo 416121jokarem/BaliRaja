@@ -17,4 +17,4 @@ Note:<br />
 Create a FAST2SMS account and get an API key. Now change the same in the alert model(Alert.py).<br />
 Create an OpenWeather account and get an API key. Now change the same in the alert model(Alert.py).<br />
 
-# What runtime the developer need ?
+# What runtime the developer needs ?
