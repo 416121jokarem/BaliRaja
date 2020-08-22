@@ -1,0 +1,1626 @@
+Soil,Month,State,N,P,K,MinTemp,MaxTemp,MinpH,MaxpH,Crop
+AL,January,Andhra Pradesh,120,60,60,16,30,5,6,1
+AL,January,Assam,120,60,60,16,30,5,6,1
+AL,January,Bihar,120,60,60,16,30,5,6,1
+AL,January,Gujarat,120,60,60,16,30,5,6,1
+AL,January,Haryana,120,60,60,16,30,5,6,1
+AL,January,Himachal Pradesh,120,60,60,16,30,5,6,1
+AL,January,Karnataka,120,60,60,16,30,5,6,1
+AL,January,Kerala,120,60,60,16,30,5,6,1
+AL,January,Madhya Pradesh,120,60,60,16,30,5,6,1
+AL,January,Maharashtra,120,60,60,16,30,5,6,1
+AL,January,Orissa,120,60,60,16,30,5,6,1
+AL,January,Punjab,120,60,60,16,30,5,6,1
+AL,January,Tamil Nadu,120,60,60,16,30,5,6,1
+AL,January,Uttar Pradesh,120,60,60,16,30,5,6,1
+AL,January,West Bengal,120,60,60,16,30,5,6,1
+AL,January,Chattisgarh,120,60,60,16,30,5,6,1
+AL,January,Jharkhand,120,60,60,16,30,5,6,1
+AL,January,Uttarakhand,120,60,60,16,30,5,6,1
+AL,May,Andhra Pradesh,120,60,60,16,30,5,6,1
+AL,May,Assam,120,60,60,16,30,5,6,1
+AL,May,Bihar,120,60,60,16,30,5,6,1
+AL,May,Gujarat,120,60,60,16,30,5,6,1
+AL,May,Haryana,120,60,60,16,30,5,6,1
+AL,May,Himachal Pradesh,120,60,60,16,30,5,6,1
+AL,May,Karnataka,120,60,60,16,30,5,6,1
+AL,May,Kerala,120,60,60,16,30,5,6,1
+AL,May,Madhya Pradesh,120,60,60,16,30,5,6,1
+AL,May,Maharashtra,120,60,60,16,30,5,6,1
+AL,May,Orissa,120,60,60,16,30,5,6,1
+AL,May,Punjab,120,60,60,16,30,5,6,1
+AL,May,Tamil Nadu,120,60,60,16,30,5,6,1
+AL,May,Uttar Pradesh,120,60,60,16,30,5,6,1
+AL,May,West Bengal,120,60,60,16,30,5,6,1
+AL,May,Chattisgarh,120,60,60,16,30,5,6,1
+AL,May,Jharkhand,120,60,60,16,30,5,6,1
+AL,May,Uttarakhand,120,60,60,16,30,5,6,1
+AL,June,Andhra Pradesh,120,60,60,16,30,5,6,1
+AL,June,Assam,120,60,60,16,30,5,6,1
+AL,June,Bihar,120,60,60,16,30,5,6,1
+AL,June,Gujarat,120,60,60,16,30,5,6,1
+AL,June,Haryana,120,60,60,16,30,5,6,1
+AL,June,Himachal Pradesh,120,60,60,16,30,5,6,1
+AL,June,Karnataka,120,60,60,16,30,5,6,1
+AL,June,Kerala,120,60,60,16,30,5,6,1
+AL,June,Madhya Pradesh,120,60,60,16,30,5,6,1
+AL,June,Maharashtra,120,60,60,16,30,5,6,1
+AL,June,Orissa,120,60,60,16,30,5,6,1
+AL,June,Punjab,120,60,60,16,30,5,6,1
+AL,June,Tamil Nadu,120,60,60,16,30,5,6,1
+AL,June,Uttar Pradesh,120,60,60,16,30,5,6,1
+AL,June,West Bengal,120,60,60,16,30,5,6,1
+AL,June,Chattisgarh,120,60,60,16,30,5,6,1
+AL,June,Jharkhand,120,60,60,16,30,5,6,1
+AL,June,Uttarakhand,120,60,60,16,30,5,6,1
+AL,July,Andhra Pradesh,120,60,60,16,30,5,6,1
+AL,July,Assam,120,60,60,16,30,5,6,1
+AL,July,Bihar,120,60,60,16,30,5,6,1
+AL,July,Gujarat,120,60,60,16,30,5,6,1
+AL,July,Haryana,120,60,60,16,30,5,6,1
+AL,July,Himachal Pradesh,120,60,60,16,30,5,6,1
+AL,July,Karnataka,120,60,60,16,30,5,6,1
+AL,July,Kerala,120,60,60,16,30,5,6,1
+AL,July,Madhya Pradesh,120,60,60,16,30,5,6,1
+AL,July,Maharashtra,120,60,60,16,30,5,6,1
+AL,July,Orissa,120,60,60,16,30,5,6,1
+AL,July,Punjab,120,60,60,16,30,5,6,1
+AL,July,Tamil Nadu,120,60,60,16,30,5,6,1
+AL,July,Uttar Pradesh,120,60,60,16,30,5,6,1
+AL,July,West Bengal,120,60,60,16,30,5,6,1
+AL,July,Chattisgarh,120,60,60,16,30,5,6,1
+AL,July,Jharkhand,120,60,60,16,30,5,6,1
+AL,July,Uttarakhand,120,60,60,16,30,5,6,1
+AL,August,Andhra Pradesh,120,60,60,16,30,5,6,1
+AL,August,Assam,120,60,60,16,30,5,6,1
+AL,August,Bihar,120,60,60,16,30,5,6,1
+AL,August,Gujarat,120,60,60,16,30,5,6,1
+AL,August,Haryana,120,60,60,16,30,5,6,1
+AL,August,Himachal Pradesh,120,60,60,16,30,5,6,1
+AL,August,Karnataka,120,60,60,16,30,5,6,1
+AL,August,Kerala,120,60,60,16,30,5,6,1
+AL,August,Madhya Pradesh,120,60,60,16,30,5,6,1
+AL,August,Maharashtra,120,60,60,16,30,5,6,1
+AL,August,Orissa,120,60,60,16,30,5,6,1
+AL,August,Punjab,120,60,60,16,30,5,6,1
+AL,August,Tamil Nadu,120,60,60,16,30,5,6,1
+AL,August,Uttar Pradesh,120,60,60,16,30,5,6,1
+AL,August,West Bengal,120,60,60,16,30,5,6,1
+AL,August,Chattisgarh,120,60,60,16,30,5,6,1
+AL,August,Jharkhand,120,60,60,16,30,5,6,1
+AL,August,Uttarakhand,120,60,60,16,30,5,6,1
+AL,September,Andhra Pradesh,120,60,60,16,30,5,6,1
+AL,September,Assam,120,60,60,16,30,5,6,1
+AL,September,Bihar,120,60,60,16,30,5,6,1
+AL,September,Gujarat,120,60,60,16,30,5,6,1
+AL,September,Haryana,120,60,60,16,30,5,6,1
+AL,September,Himachal Pradesh,120,60,60,16,30,5,6,1
+AL,September,Karnataka,120,60,60,16,30,5,6,1
+AL,September,Kerala,120,60,60,16,30,5,6,1
+AL,September,Madhya Pradesh,120,60,60,16,30,5,6,1
+AL,September,Maharashtra,120,60,60,16,30,5,6,1
+AL,September,Orissa,120,60,60,16,30,5,6,1
+AL,September,Punjab,120,60,60,16,30,5,6,1
+AL,September,Tamil Nadu,120,60,60,16,30,5,6,1
+AL,September,Uttar Pradesh,120,60,60,16,30,5,6,1
+AL,September,West Bengal,120,60,60,16,30,5,6,1
+AL,September,Chattisgarh,120,60,60,16,30,5,6,1
+AL,September,Jharkhand,120,60,60,16,30,5,6,1
+AL,September,Uttarakhand,120,60,60,16,30,5,6,1
+AL,December,Andhra Pradesh,120,60,60,16,30,5,6,1
+AL,December,Assam,120,60,60,16,30,5,6,1
+AL,December,Bihar,120,60,60,16,30,5,6,1
+AL,December,Gujarat,120,60,60,16,30,5,6,1
+AL,December,Haryana,120,60,60,16,30,5,6,1
+AL,December,Himachal Pradesh,120,60,60,16,30,5,6,1
+AL,December,Karnataka,120,60,60,16,30,5,6,1
+AL,December,Kerala,120,60,60,16,30,5,6,1
+AL,December,Madhya Pradesh,120,60,60,16,30,5,6,1
+AL,December,Maharashtra,120,60,60,16,30,5,6,1
+AL,December,Orissa,120,60,60,16,30,5,6,1
+AL,December,Punjab,120,60,60,16,30,5,6,1
+AL,December,Tamil Nadu,120,60,60,16,30,5,6,1
+AL,December,Uttar Pradesh,120,60,60,16,30,5,6,1
+AL,December,West Bengal,120,60,60,16,30,5,6,1
+AL,December,Chattisgarh,120,60,60,16,30,5,6,1
+AL,December,Jharkhand,120,60,60,16,30,5,6,1
+AL,December,Uttarakhand,120,60,60,16,30,5,6,1
+RD,January,Andhra Pradesh,120,60,60,16,30,5,6,1
+RD,January,Assam,120,60,60,16,30,5,6,1
+RD,January,Bihar,120,60,60,16,30,5,6,1
+RD,January,Gujarat,120,60,60,16,30,5,6,1
+RD,January,Haryana,120,60,60,16,30,5,6,1
+RD,January,Himachal Pradesh,120,60,60,16,30,5,6,1
+RD,January,Karnataka,120,60,60,16,30,5,6,1
+RD,January,Kerala,120,60,60,16,30,5,6,1
+RD,January,Madhya Pradesh,120,60,60,16,30,5,6,1
+RD,January,Maharashtra,120,60,60,16,30,5,6,1
+RD,January,Orissa,120,60,60,16,30,5,6,1
+RD,January,Punjab,120,60,60,16,30,5,6,1
+RD,January,Tamil Nadu,120,60,60,16,30,5,6,1
+RD,January,Uttar Pradesh,120,60,60,16,30,5,6,1
+RD,January,West Bengal,120,60,60,16,30,5,6,1
+RD,January,Chattisgarh,120,60,60,16,30,5,6,1
+RD,January,Jharkhand,120,60,60,16,30,5,6,1
+RD,January,Uttarakhand,120,60,60,16,30,5,6,1
+RD,May,Andhra Pradesh,120,60,60,16,30,5,6,1
+RD,May,Assam,120,60,60,16,30,5,6,1
+RD,May,Bihar,120,60,60,16,30,5,6,1
+RD,May,Gujarat,120,60,60,16,30,5,6,1
+RD,May,Haryana,120,60,60,16,30,5,6,1
+RD,May,Himachal Pradesh,120,60,60,16,30,5,6,1
+RD,May,Karnataka,120,60,60,16,30,5,6,1
+RD,May,Kerala,120,60,60,16,30,5,6,1
+RD,May,Madhya Pradesh,120,60,60,16,30,5,6,1
+RD,May,Maharashtra,120,60,60,16,30,5,6,1
+RD,May,Orissa,120,60,60,16,30,5,6,1
+RD,May,Punjab,120,60,60,16,30,5,6,1
+RD,May,Tamil Nadu,120,60,60,16,30,5,6,1
+RD,May,Uttar Pradesh,120,60,60,16,30,5,6,1
+RD,May,West Bengal,120,60,60,16,30,5,6,1
+RD,May,Chattisgarh,120,60,60,16,30,5,6,1
+RD,May,Jharkhand,120,60,60,16,30,5,6,1
+RD,May,Uttarakhand,120,60,60,16,30,5,6,1
+RD,June,Andhra Pradesh,120,60,60,16,30,5,6,1
+RD,June,Assam,120,60,60,16,30,5,6,1
+RD,June,Bihar,120,60,60,16,30,5,6,1
+RD,June,Gujarat,120,60,60,16,30,5,6,1
+RD,June,Haryana,120,60,60,16,30,5,6,1
+RD,June,Himachal Pradesh,120,60,60,16,30,5,6,1
+RD,June,Karnataka,120,60,60,16,30,5,6,1
+RD,June,Kerala,120,60,60,16,30,5,6,1
+RD,June,Madhya Pradesh,120,60,60,16,30,5,6,1
+RD,June,Maharashtra,120,60,60,16,30,5,6,1
+RD,June,Orissa,120,60,60,16,30,5,6,1
+RD,June,Punjab,120,60,60,16,30,5,6,1
+RD,June,Tamil Nadu,120,60,60,16,30,5,6,1
+RD,June,Uttar Pradesh,120,60,60,16,30,5,6,1
+RD,June,West Bengal,120,60,60,16,30,5,6,1
+RD,June,Chattisgarh,120,60,60,16,30,5,6,1
+RD,June,Jharkhand,120,60,60,16,30,5,6,1
+RD,June,Uttarakhand,120,60,60,16,30,5,6,1
+RD,July,Andhra Pradesh,120,60,60,16,30,5,6,1
+RD,July,Assam,120,60,60,16,30,5,6,1
+RD,July,Bihar,120,60,60,16,30,5,6,1
+RD,July,Gujarat,120,60,60,16,30,5,6,1
+RD,July,Haryana,120,60,60,16,30,5,6,1
+RD,July,Himachal Pradesh,120,60,60,16,30,5,6,1
+RD,July,Karnataka,120,60,60,16,30,5,6,1
+RD,July,Kerala,120,60,60,16,30,5,6,1
+RD,July,Madhya Pradesh,120,60,60,16,30,5,6,1
+RD,July,Maharashtra,120,60,60,16,30,5,6,1
+RD,July,Orissa,120,60,60,16,30,5,6,1
+RD,July,Punjab,120,60,60,16,30,5,6,1
+RD,July,Tamil Nadu,120,60,60,16,30,5,6,1
+RD,July,Uttar Pradesh,120,60,60,16,30,5,6,1
+RD,July,West Bengal,120,60,60,16,30,5,6,1
+RD,July,Chattisgarh,120,60,60,16,30,5,6,1
+RD,July,Jharkhand,120,60,60,16,30,5,6,1
+RD,July,Uttarakhand,120,60,60,16,30,5,6,1
+RD,August,Andhra Pradesh,120,60,60,16,30,5,6,1
+RD,August,Assam,120,60,60,16,30,5,6,1
+RD,August,Bihar,120,60,60,16,30,5,6,1
+RD,August,Gujarat,120,60,60,16,30,5,6,1
+RD,August,Haryana,120,60,60,16,30,5,6,1
+RD,August,Himachal Pradesh,120,60,60,16,30,5,6,1
+RD,August,Karnataka,120,60,60,16,30,5,6,1
+RD,August,Kerala,120,60,60,16,30,5,6,1
+RD,August,Madhya Pradesh,120,60,60,16,30,5,6,1
+RD,August,Maharashtra,120,60,60,16,30,5,6,1
+RD,August,Orissa,120,60,60,16,30,5,6,1
+RD,August,Punjab,120,60,60,16,30,5,6,1
+RD,August,Tamil Nadu,120,60,60,16,30,5,6,1
+RD,August,Uttar Pradesh,120,60,60,16,30,5,6,1
+RD,August,West Bengal,120,60,60,16,30,5,6,1
+RD,August,Chattisgarh,120,60,60,16,30,5,6,1
+RD,August,Jharkhand,120,60,60,16,30,5,6,1
+RD,August,Uttarakhand,120,60,60,16,30,5,6,1
+RD,September,Andhra Pradesh,120,60,60,16,30,5,6,1
+RD,September,Assam,120,60,60,16,30,5,6,1
+RD,September,Bihar,120,60,60,16,30,5,6,1
+RD,September,Gujarat,120,60,60,16,30,5,6,1
+RD,September,Haryana,120,60,60,16,30,5,6,1
+RD,September,Himachal Pradesh,120,60,60,16,30,5,6,1
+RD,September,Karnataka,120,60,60,16,30,5,6,1
+RD,September,Kerala,120,60,60,16,30,5,6,1
+RD,September,Madhya Pradesh,120,60,60,16,30,5,6,1
+RD,September,Maharashtra,120,60,60,16,30,5,6,1
+RD,September,Orissa,120,60,60,16,30,5,6,1
+RD,September,Punjab,120,60,60,16,30,5,6,1
+RD,September,Tamil Nadu,120,60,60,16,30,5,6,1
+RD,September,Uttar Pradesh,120,60,60,16,30,5,6,1
+RD,September,West Bengal,120,60,60,16,30,5,6,1
+RD,September,Chattisgarh,120,60,60,16,30,5,6,1
+RD,September,Jharkhand,120,60,60,16,30,5,6,1
+RD,September,Uttarakhand,120,60,60,16,30,5,6,1
+RD,December,Andhra Pradesh,120,60,60,16,30,5,6,1
+RD,December,Assam,120,60,60,16,30,5,6,1
+RD,December,Bihar,120,60,60,16,30,5,6,1
+RD,December,Gujarat,120,60,60,16,30,5,6,1
+RD,December,Haryana,120,60,60,16,30,5,6,1
+RD,December,Himachal Pradesh,120,60,60,16,30,5,6,1
+RD,December,Karnataka,120,60,60,16,30,5,6,1
+RD,December,Kerala,120,60,60,16,30,5,6,1
+RD,December,Madhya Pradesh,120,60,60,16,30,5,6,1
+RD,December,Maharashtra,120,60,60,16,30,5,6,1
+RD,December,Orissa,120,60,60,16,30,5,6,1
+RD,December,Punjab,120,60,60,16,30,5,6,1
+RD,December,Tamil Nadu,120,60,60,16,30,5,6,1
+RD,December,Uttar Pradesh,120,60,60,16,30,5,6,1
+RD,December,West Bengal,120,60,60,16,30,5,6,1
+RD,December,Chattisgarh,120,60,60,16,30,5,6,1
+RD,December,Jharkhand,120,60,60,16,30,5,6,1
+RD,December,Uttarakhand,120,60,60,16,30,5,6,1
+BK,January,Andhra Pradesh,120,60,60,16,30,5,6,1
+BK,January,Assam,120,60,60,16,30,5,6,1
+BK,January,Bihar,120,60,60,16,30,5,6,1
+BK,January,Gujarat,120,60,60,16,30,5,6,1
+BK,January,Haryana,120,60,60,16,30,5,6,1
+BK,January,Himachal Pradesh,120,60,60,16,30,5,6,1
+BK,January,Karnataka,120,60,60,16,30,5,6,1
+BK,January,Kerala,120,60,60,16,30,5,6,1
+BK,January,Madhya Pradesh,120,60,60,16,30,5,6,1
+BK,January,Maharashtra,120,60,60,16,30,5,6,1
+BK,January,Orissa,120,60,60,16,30,5,6,1
+BK,January,Punjab,120,60,60,16,30,5,6,1
+BK,January,Tamil Nadu,120,60,60,16,30,5,6,1
+BK,January,Uttar Pradesh,120,60,60,16,30,5,6,1
+BK,January,West Bengal,120,60,60,16,30,5,6,1
+BK,January,Chattisgarh,120,60,60,16,30,5,6,1
+BK,January,Jharkhand,120,60,60,16,30,5,6,1
+BK,January,Uttarakhand,120,60,60,16,30,5,6,1
+BK,May,Andhra Pradesh,120,60,60,16,30,5,6,1
+BK,May,Assam,120,60,60,16,30,5,6,1
+BK,May,Bihar,120,60,60,16,30,5,6,1
+BK,May,Gujarat,120,60,60,16,30,5,6,1
+BK,May,Haryana,120,60,60,16,30,5,6,1
+BK,May,Himachal Pradesh,120,60,60,16,30,5,6,1
+BK,May,Karnataka,120,60,60,16,30,5,6,1
+BK,May,Kerala,120,60,60,16,30,5,6,1
+BK,May,Madhya Pradesh,120,60,60,16,30,5,6,1
+BK,May,Maharashtra,120,60,60,16,30,5,6,1
+BK,May,Orissa,120,60,60,16,30,5,6,1
+BK,May,Punjab,120,60,60,16,30,5,6,1
+BK,May,Tamil Nadu,120,60,60,16,30,5,6,1
+BK,May,Uttar Pradesh,120,60,60,16,30,5,6,1
+BK,May,West Bengal,120,60,60,16,30,5,6,1
+BK,May,Chattisgarh,120,60,60,16,30,5,6,1
+BK,May,Jharkhand,120,60,60,16,30,5,6,1
+BK,May,Uttarakhand,120,60,60,16,30,5,6,1
+BK,June,Andhra Pradesh,120,60,60,16,30,5,6,1
+BK,June,Assam,120,60,60,16,30,5,6,1
+BK,June,Bihar,120,60,60,16,30,5,6,1
+BK,June,Gujarat,120,60,60,16,30,5,6,1
+BK,June,Haryana,120,60,60,16,30,5,6,1
+BK,June,Himachal Pradesh,120,60,60,16,30,5,6,1
+BK,June,Karnataka,120,60,60,16,30,5,6,1
+BK,June,Kerala,120,60,60,16,30,5,6,1
+BK,June,Madhya Pradesh,120,60,60,16,30,5,6,1
+BK,June,Maharashtra,120,60,60,16,30,5,6,1
+BK,June,Orissa,120,60,60,16,30,5,6,1
+BK,June,Punjab,120,60,60,16,30,5,6,1
+BK,June,Tamil Nadu,120,60,60,16,30,5,6,1
+BK,June,Uttar Pradesh,120,60,60,16,30,5,6,1
+BK,June,West Bengal,120,60,60,16,30,5,6,1
+BK,June,Chattisgarh,120,60,60,16,30,5,6,1
+BK,June,Jharkhand,120,60,60,16,30,5,6,1
+BK,June,Uttarakhand,120,60,60,16,30,5,6,1
+BK,July,Andhra Pradesh,120,60,60,16,30,5,6,1
+BK,July,Assam,120,60,60,16,30,5,6,1
+BK,July,Bihar,120,60,60,16,30,5,6,1
+BK,July,Gujarat,120,60,60,16,30,5,6,1
+BK,July,Haryana,120,60,60,16,30,5,6,1
+BK,July,Himachal Pradesh,120,60,60,16,30,5,6,1
+BK,July,Karnataka,120,60,60,16,30,5,6,1
+BK,July,Kerala,120,60,60,16,30,5,6,1
+BK,July,Madhya Pradesh,120,60,60,16,30,5,6,1
+BK,July,Maharashtra,120,60,60,16,30,5,6,1
+BK,July,Orissa,120,60,60,16,30,5,6,1
+BK,July,Punjab,120,60,60,16,30,5,6,1
+BK,July,Tamil Nadu,120,60,60,16,30,5,6,1
+BK,July,Uttar Pradesh,120,60,60,16,30,5,6,1
+BK,July,West Bengal,120,60,60,16,30,5,6,1
+BK,July,Chattisgarh,120,60,60,16,30,5,6,1
+BK,July,Jharkhand,120,60,60,16,30,5,6,1
+BK,July,Uttarakhand,120,60,60,16,30,5,6,1
+BK,August,Andhra Pradesh,120,60,60,16,30,5,6,1
+BK,August,Assam,120,60,60,16,30,5,6,1
+BK,August,Bihar,120,60,60,16,30,5,6,1
+BK,August,Gujarat,120,60,60,16,30,5,6,1
+BK,August,Haryana,120,60,60,16,30,5,6,1
+BK,August,Himachal Pradesh,120,60,60,16,30,5,6,1
+BK,August,Karnataka,120,60,60,16,30,5,6,1
+BK,August,Kerala,120,60,60,16,30,5,6,1
+BK,August,Madhya Pradesh,120,60,60,16,30,5,6,1
+BK,August,Maharashtra,120,60,60,16,30,5,6,1
+BK,August,Orissa,120,60,60,16,30,5,6,1
+BK,August,Punjab,120,60,60,16,30,5,6,1
+BK,August,Tamil Nadu,120,60,60,16,30,5,6,1
+BK,August,Uttar Pradesh,120,60,60,16,30,5,6,1
+BK,August,West Bengal,120,60,60,16,30,5,6,1
+BK,August,Chattisgarh,120,60,60,16,30,5,6,1
+BK,August,Jharkhand,120,60,60,16,30,5,6,1
+BK,August,Uttarakhand,120,60,60,16,30,5,6,1
+BK,September,Andhra Pradesh,120,60,60,16,30,5,6,1
+BK,September,Assam,120,60,60,16,30,5,6,1
+BK,September,Bihar,120,60,60,16,30,5,6,1
+BK,September,Gujarat,120,60,60,16,30,5,6,1
+BK,September,Haryana,120,60,60,16,30,5,6,1
+BK,September,Himachal Pradesh,120,60,60,16,30,5,6,1
+BK,September,Karnataka,120,60,60,16,30,5,6,1
+BK,September,Kerala,120,60,60,16,30,5,6,1
+BK,September,Madhya Pradesh,120,60,60,16,30,5,6,1
+BK,September,Maharashtra,120,60,60,16,30,5,6,1
+BK,September,Orissa,120,60,60,16,30,5,6,1
+BK,September,Punjab,120,60,60,16,30,5,6,1
+BK,September,Tamil Nadu,120,60,60,16,30,5,6,1
+BK,September,Uttar Pradesh,120,60,60,16,30,5,6,1
+BK,September,West Bengal,120,60,60,16,30,5,6,1
+BK,September,Chattisgarh,120,60,60,16,30,5,6,1
+BK,September,Jharkhand,120,60,60,16,30,5,6,1
+BK,September,Uttarakhand,120,60,60,16,30,5,6,1
+BK,December,Andhra Pradesh,120,60,60,16,30,5,6,1
+BK,December,Assam,120,60,60,16,30,5,6,1
+BK,December,Bihar,120,60,60,16,30,5,6,1
+BK,December,Gujarat,120,60,60,16,30,5,6,1
+BK,December,Haryana,120,60,60,16,30,5,6,1
+BK,December,Himachal Pradesh,120,60,60,16,30,5,6,1
+BK,December,Karnataka,120,60,60,16,30,5,6,1
+BK,December,Kerala,120,60,60,16,30,5,6,1
+BK,December,Madhya Pradesh,120,60,60,16,30,5,6,1
+BK,December,Maharashtra,120,60,60,16,30,5,6,1
+BK,December,Orissa,120,60,60,16,30,5,6,1
+BK,December,Punjab,120,60,60,16,30,5,6,1
+BK,December,Tamil Nadu,120,60,60,16,30,5,6,1
+BK,December,Uttar Pradesh,120,60,60,16,30,5,6,1
+BK,December,West Bengal,120,60,60,16,30,5,6,1
+BK,December,Chattisgarh,120,60,60,16,30,5,6,1
+BK,December,Jharkhand,120,60,60,16,30,5,6,1
+BK,December,Uttarakhand,120,60,60,16,30,5,6,1
+AL,February,Andhra Pradesh,300,128,128,12,38,7.5,8,4
+AL,February,Andhra Pradesh,170,85,85,12,38,7.5,8,4
+AL,February,Andhra Pradesh,125,58,58,12,38,7.5,8,4
+AL,February,Karnataka,300,128,128,12,38,7.5,8,4
+AL,February,Karnataka,170,85,85,12,38,7.5,8,4
+AL,February,Karnataka,125,58,58,12,38,7.5,8,4
+AL,February,Maharashtra,300,128,128,12,38,7.5,8,4
+AL,February,Maharashtra,170,85,85,12,38,7.5,8,4
+AL,February,Maharashtra,125,58,58,12,38,7.5,8,4
+AL,February,Tamil Nadu,300,128,128,12,38,7.5,8,4
+AL,February,Tamil Nadu,170,85,85,12,38,7.5,8,4
+AL,February,Tamil Nadu,125,58,58,12,38,7.5,8,4
+AL,February,Uttar Pradesh,300,128,128,12,38,7.5,8,4
+AL,February,Uttar Pradesh,170,85,85,12,38,7.5,8,4
+AL,February,Uttar Pradesh,125,58,58,12,38,7.5,8,4
+AL,February,Uttarakhand,300,128,128,12,38,7.5,8,4
+AL,February,Uttarakhand,170,85,85,12,38,7.5,8,4
+AL,February,Uttarakhand,125,58,58,12,38,7.5,8,4
+AL,March,Andhra Pradesh,300,128,128,12,38,7.5,8,4
+AL,March,Andhra Pradesh,170,85,85,12,38,7.5,8,4
+AL,March,Andhra Pradesh,125,58,58,12,38,7.5,8,4
+AL,March,Karnataka,300,128,128,12,38,7.5,8,4
+AL,March,Karnataka,170,85,85,12,38,7.5,8,4
+AL,March,Karnataka,125,58,58,12,38,7.5,8,4
+AL,March,Maharashtra,300,128,128,12,38,7.5,8,4
+AL,March,Maharashtra,170,85,85,12,38,7.5,8,4
+AL,March,Maharashtra,125,58,58,12,38,7.5,8,4
+AL,March,Tamil Nadu,300,128,128,12,38,7.5,8,4
+AL,March,Tamil Nadu,170,85,85,12,38,7.5,8,4
+AL,March,Tamil Nadu,125,58,58,12,38,7.5,8,4
+AL,March,Uttar Pradesh,300,128,128,12,38,7.5,8,4
+AL,March,Uttar Pradesh,170,85,85,12,38,7.5,8,4
+AL,March,Uttar Pradesh,125,58,58,12,38,7.5,8,4
+AL,March,Uttarakhand,300,128,128,12,38,7.5,8,4
+AL,March,Uttarakhand,170,85,85,12,38,7.5,8,4
+AL,March,Uttarakhand,125,58,58,12,38,7.5,8,4
+AL,April,Andhra Pradesh,300,128,128,12,38,7.5,8,4
+AL,April,Andhra Pradesh,170,85,85,12,38,7.5,8,4
+AL,April,Andhra Pradesh,125,58,58,12,38,7.5,8,4
+AL,April,Karnataka,300,128,128,12,38,7.5,8,4
+AL,April,Karnataka,170,85,85,12,38,7.5,8,4
+AL,April,Karnataka,125,58,58,12,38,7.5,8,4
+AL,April,Maharashtra,300,128,128,12,38,7.5,8,4
+AL,April,Maharashtra,170,85,85,12,38,7.5,8,4
+AL,April,Maharashtra,125,58,58,12,38,7.5,8,4
+AL,April,Tamil Nadu,300,128,128,12,38,7.5,8,4
+AL,April,Tamil Nadu,170,85,85,12,38,7.5,8,4
+AL,April,Tamil Nadu,125,58,58,12,38,7.5,8,4
+AL,April,Uttar Pradesh,300,128,128,12,38,7.5,8,4
+AL,April,Uttar Pradesh,170,85,85,12,38,7.5,8,4
+AL,April,Uttar Pradesh,125,58,58,12,38,7.5,8,4
+AL,April,Uttarakhand,300,128,128,12,38,7.5,8,4
+AL,April,Uttarakhand,170,85,85,12,38,7.5,8,4
+AL,April,Uttarakhand,125,58,58,12,38,7.5,8,4
+AL,May,Andhra Pradesh,300,128,128,12,38,7.5,8,4
+AL,May,Andhra Pradesh,170,85,85,12,38,7.5,8,4
+AL,May,Andhra Pradesh,125,58,58,12,38,7.5,8,4
+AL,May,Karnataka,300,128,128,12,38,7.5,8,4
+AL,May,Karnataka,170,85,85,12,38,7.5,8,4
+AL,May,Karnataka,125,58,58,12,38,7.5,8,4
+AL,May,Maharashtra,300,128,128,12,38,7.5,8,4
+AL,May,Maharashtra,170,85,85,12,38,7.5,8,4
+AL,May,Maharashtra,125,58,58,12,38,7.5,8,4
+AL,May,Tamil Nadu,300,128,128,12,38,7.5,8,4
+AL,May,Tamil Nadu,170,85,85,12,38,7.5,8,4
+AL,May,Tamil Nadu,125,58,58,12,38,7.5,8,4
+AL,May,Uttar Pradesh,300,128,128,12,38,7.5,8,4
+AL,May,Uttar Pradesh,170,85,85,12,38,7.5,8,4
+AL,May,Uttar Pradesh,125,58,58,12,38,7.5,8,4
+AL,May,Uttarakhand,300,128,128,12,38,7.5,8,4
+AL,May,Uttarakhand,170,85,85,12,38,7.5,8,4
+AL,May,Uttarakhand,125,58,58,12,38,7.5,8,4
+AL,June,Andhra Pradesh,300,128,128,12,38,7.5,8,4
+AL,June,Andhra Pradesh,170,85,85,12,38,7.5,8,4
+AL,June,Andhra Pradesh,125,58,58,12,38,7.5,8,4
+AL,June,Karnataka,300,128,128,12,38,7.5,8,4
+AL,June,Karnataka,170,85,85,12,38,7.5,8,4
+AL,June,Karnataka,125,58,58,12,38,7.5,8,4
+AL,June,Maharashtra,300,128,128,12,38,7.5,8,4
+AL,June,Maharashtra,170,85,85,12,38,7.5,8,4
+AL,June,Maharashtra,125,58,58,12,38,7.5,8,4
+AL,June,Tamil Nadu,300,128,128,12,38,7.5,8,4
+AL,June,Tamil Nadu,170,85,85,12,38,7.5,8,4
+AL,June,Tamil Nadu,125,58,58,12,38,7.5,8,4
+AL,June,Uttar Pradesh,300,128,128,12,38,7.5,8,4
+AL,June,Uttar Pradesh,170,85,85,12,38,7.5,8,4
+AL,June,Uttar Pradesh,125,58,58,12,38,7.5,8,4
+AL,June,Uttarakhand,300,128,128,12,38,7.5,8,4
+AL,June,Uttarakhand,170,85,85,12,38,7.5,8,4
+AL,June,Uttarakhand,125,58,58,12,38,7.5,8,4
+AL,July,Andhra Pradesh,300,128,128,12,38,7.5,8,4
+AL,July,Andhra Pradesh,170,85,85,12,38,7.5,8,4
+AL,July,Andhra Pradesh,125,58,58,12,38,7.5,8,4
+AL,July,Karnataka,300,128,128,12,38,7.5,8,4
+AL,July,Karnataka,170,85,85,12,38,7.5,8,4
+AL,July,Karnataka,125,58,58,12,38,7.5,8,4
+AL,July,Maharashtra,300,128,128,12,38,7.5,8,4
+AL,July,Maharashtra,170,85,85,12,38,7.5,8,4
+AL,July,Maharashtra,125,58,58,12,38,7.5,8,4
+AL,July,Tamil Nadu,300,128,128,12,38,7.5,8,4
+AL,July,Tamil Nadu,170,85,85,12,38,7.5,8,4
+AL,July,Tamil Nadu,125,58,58,12,38,7.5,8,4
+AL,July,Uttar Pradesh,300,128,128,12,38,7.5,8,4
+AL,July,Uttar Pradesh,170,85,85,12,38,7.5,8,4
+AL,July,Uttar Pradesh,125,58,58,12,38,7.5,8,4
+AL,July,Uttarakhand,300,128,128,12,38,7.5,8,4
+AL,July,Uttarakhand,170,85,85,12,38,7.5,8,4
+AL,July,Uttarakhand,125,58,58,12,38,7.5,8,4
+AL,August,Andhra Pradesh,300,128,128,12,38,7.5,8,4
+AL,August,Andhra Pradesh,170,85,85,12,38,7.5,8,4
+AL,August,Andhra Pradesh,125,58,58,12,38,7.5,8,4
+AL,August,Karnataka,300,128,128,12,38,7.5,8,4
+AL,August,Karnataka,170,85,85,12,38,7.5,8,4
+AL,August,Karnataka,125,58,58,12,38,7.5,8,4
+AL,August,Maharashtra,300,128,128,12,38,7.5,8,4
+AL,August,Maharashtra,170,85,85,12,38,7.5,8,4
+AL,August,Maharashtra,125,58,58,12,38,7.5,8,4
+AL,August,Tamil Nadu,300,128,128,12,38,7.5,8,4
+AL,August,Tamil Nadu,170,85,85,12,38,7.5,8,4
+AL,August,Tamil Nadu,125,58,58,12,38,7.5,8,4
+AL,August,Uttar Pradesh,300,128,128,12,38,7.5,8,4
+AL,August,Uttar Pradesh,170,85,85,12,38,7.5,8,4
+AL,August,Uttar Pradesh,125,58,58,12,38,7.5,8,4
+AL,August,Uttarakhand,300,128,128,12,38,7.5,8,4
+AL,August,Uttarakhand,170,85,85,12,38,7.5,8,4
+AL,August,Uttarakhand,125,58,58,12,38,7.5,8,4
+RD,February,Andhra Pradesh,300,128,128,12,38,7.5,8,4
+RD,February,Andhra Pradesh,170,85,85,12,38,7.5,8,4
+RD,February,Andhra Pradesh,125,58,58,12,38,7.5,8,4
+RD,February,Karnataka,300,128,128,12,38,7.5,8,4
+RD,February,Karnataka,170,85,85,12,38,7.5,8,4
+RD,February,Karnataka,125,58,58,12,38,7.5,8,4
+RD,February,Maharashtra,300,128,128,12,38,7.5,8,4
+RD,February,Maharashtra,170,85,85,12,38,7.5,8,4
+RD,February,Maharashtra,125,58,58,12,38,7.5,8,4
+RD,February,Tamil Nadu,300,128,128,12,38,7.5,8,4
+RD,February,Tamil Nadu,170,85,85,12,38,7.5,8,4
+RD,February,Tamil Nadu,125,58,58,12,38,7.5,8,4
+RD,February,Uttar Pradesh,300,128,128,12,38,7.5,8,4
+RD,February,Uttar Pradesh,170,85,85,12,38,7.5,8,4
+RD,February,Uttar Pradesh,125,58,58,12,38,7.5,8,4
+RD,February,Uttarakhand,300,128,128,12,38,7.5,8,4
+RD,February,Uttarakhand,170,85,85,12,38,7.5,8,4
+RD,February,Uttarakhand,125,58,58,12,38,7.5,8,4
+RD,March,Andhra Pradesh,300,128,128,12,38,7.5,8,4
+RD,March,Andhra Pradesh,170,85,85,12,38,7.5,8,4
+RD,March,Andhra Pradesh,125,58,58,12,38,7.5,8,4
+RD,March,Karnataka,300,128,128,12,38,7.5,8,4
+RD,March,Karnataka,170,85,85,12,38,7.5,8,4
+RD,March,Karnataka,125,58,58,12,38,7.5,8,4
+RD,March,Maharashtra,300,128,128,12,38,7.5,8,4
+RD,March,Maharashtra,170,85,85,12,38,7.5,8,4
+RD,March,Maharashtra,125,58,58,12,38,7.5,8,4
+RD,March,Tamil Nadu,300,128,128,12,38,7.5,8,4
+RD,March,Tamil Nadu,170,85,85,12,38,7.5,8,4
+RD,March,Tamil Nadu,125,58,58,12,38,7.5,8,4
+RD,March,Uttar Pradesh,300,128,128,12,38,7.5,8,4
+RD,March,Uttar Pradesh,170,85,85,12,38,7.5,8,4
+RD,March,Uttar Pradesh,125,58,58,12,38,7.5,8,4
+RD,March,Uttarakhand,300,128,128,12,38,7.5,8,4
+RD,March,Uttarakhand,170,85,85,12,38,7.5,8,4
+RD,March,Uttarakhand,125,58,58,12,38,7.5,8,4
+RD,April,Andhra Pradesh,300,128,128,12,38,7.5,8,4
+RD,April,Andhra Pradesh,170,85,85,12,38,7.5,8,4
+RD,April,Andhra Pradesh,125,58,58,12,38,7.5,8,4
+RD,April,Karnataka,300,128,128,12,38,7.5,8,4
+RD,April,Karnataka,170,85,85,12,38,7.5,8,4
+RD,April,Karnataka,125,58,58,12,38,7.5,8,4
+RD,April,Maharashtra,300,128,128,12,38,7.5,8,4
+RD,April,Maharashtra,170,85,85,12,38,7.5,8,4
+RD,April,Maharashtra,125,58,58,12,38,7.5,8,4
+RD,April,Tamil Nadu,300,128,128,12,38,7.5,8,4
+RD,April,Tamil Nadu,170,85,85,12,38,7.5,8,4
+RD,April,Tamil Nadu,125,58,58,12,38,7.5,8,4
+RD,April,Uttar Pradesh,300,128,128,12,38,7.5,8,4
+RD,April,Uttar Pradesh,170,85,85,12,38,7.5,8,4
+RD,April,Uttar Pradesh,125,58,58,12,38,7.5,8,4
+RD,April,Uttarakhand,300,128,128,12,38,7.5,8,4
+RD,April,Uttarakhand,170,85,85,12,38,7.5,8,4
+RD,April,Uttarakhand,125,58,58,12,38,7.5,8,4
+RD,May,Andhra Pradesh,300,128,128,12,38,7.5,8,4
+RD,May,Andhra Pradesh,170,85,85,12,38,7.5,8,4
+RD,May,Andhra Pradesh,125,58,58,12,38,7.5,8,4
+RD,May,Karnataka,300,128,128,12,38,7.5,8,4
+RD,May,Karnataka,170,85,85,12,38,7.5,8,4
+RD,May,Karnataka,125,58,58,12,38,7.5,8,4
+RD,May,Maharashtra,300,128,128,12,38,7.5,8,4
+RD,May,Maharashtra,170,85,85,12,38,7.5,8,4
+RD,May,Maharashtra,125,58,58,12,38,7.5,8,4
+RD,May,Tamil Nadu,300,128,128,12,38,7.5,8,4
+RD,May,Tamil Nadu,170,85,85,12,38,7.5,8,4
+RD,May,Tamil Nadu,125,58,58,12,38,7.5,8,4
+RD,May,Uttar Pradesh,300,128,128,12,38,7.5,8,4
+RD,May,Uttar Pradesh,170,85,85,12,38,7.5,8,4
+RD,May,Uttar Pradesh,125,58,58,12,38,7.5,8,4
+RD,May,Uttarakhand,300,128,128,12,38,7.5,8,4
+RD,May,Uttarakhand,170,85,85,12,38,7.5,8,4
+RD,May,Uttarakhand,125,58,58,12,38,7.5,8,4
+RD,June,Andhra Pradesh,300,128,128,12,38,7.5,8,4
+RD,June,Andhra Pradesh,170,85,85,12,38,7.5,8,4
+RD,June,Andhra Pradesh,125,58,58,12,38,7.5,8,4
+RD,June,Karnataka,300,128,128,12,38,7.5,8,4
+RD,June,Karnataka,170,85,85,12,38,7.5,8,4
+RD,June,Karnataka,125,58,58,12,38,7.5,8,4
+RD,June,Maharashtra,300,128,128,12,38,7.5,8,4
+RD,June,Maharashtra,170,85,85,12,38,7.5,8,4
+RD,June,Maharashtra,125,58,58,12,38,7.5,8,4
+RD,June,Tamil Nadu,300,128,128,12,38,7.5,8,4
+RD,June,Tamil Nadu,170,85,85,12,38,7.5,8,4
+RD,June,Tamil Nadu,125,58,58,12,38,7.5,8,4
+RD,June,Uttar Pradesh,300,128,128,12,38,7.5,8,4
+RD,June,Uttar Pradesh,170,85,85,12,38,7.5,8,4
+RD,June,Uttar Pradesh,125,58,58,12,38,7.5,8,4
+RD,June,Uttarakhand,300,128,128,12,38,7.5,8,4
+RD,June,Uttarakhand,170,85,85,12,38,7.5,8,4
+RD,June,Uttarakhand,125,58,58,12,38,7.5,8,4
+RD,July,Andhra Pradesh,300,128,128,12,38,7.5,8,4
+RD,July,Andhra Pradesh,170,85,85,12,38,7.5,8,4
+RD,July,Andhra Pradesh,125,58,58,12,38,7.5,8,4
+RD,July,Karnataka,300,128,128,12,38,7.5,8,4
+RD,July,Karnataka,170,85,85,12,38,7.5,8,4
+RD,July,Karnataka,125,58,58,12,38,7.5,8,4
+RD,July,Maharashtra,300,128,128,12,38,7.5,8,4
+RD,July,Maharashtra,170,85,85,12,38,7.5,8,4
+RD,July,Maharashtra,125,58,58,12,38,7.5,8,4
+RD,July,Tamil Nadu,300,128,128,12,38,7.5,8,4
+RD,July,Tamil Nadu,170,85,85,12,38,7.5,8,4
+RD,July,Tamil Nadu,125,58,58,12,38,7.5,8,4
+RD,July,Uttar Pradesh,300,128,128,12,38,7.5,8,4
+RD,July,Uttar Pradesh,170,85,85,12,38,7.5,8,4
+RD,July,Uttar Pradesh,125,58,58,12,38,7.5,8,4
+RD,July,Uttarakhand,300,128,128,12,38,7.5,8,4
+RD,July,Uttarakhand,170,85,85,12,38,7.5,8,4
+RD,July,Uttarakhand,125,58,58,12,38,7.5,8,4
+RD,August,Andhra Pradesh,300,128,128,12,38,7.5,8,4
+RD,August,Andhra Pradesh,170,85,85,12,38,7.5,8,4
+RD,August,Andhra Pradesh,125,58,58,12,38,7.5,8,4
+RD,August,Karnataka,300,128,128,12,38,7.5,8,4
+RD,August,Karnataka,170,85,85,12,38,7.5,8,4
+RD,August,Karnataka,125,58,58,12,38,7.5,8,4
+RD,August,Maharashtra,300,128,128,12,38,7.5,8,4
+RD,August,Maharashtra,170,85,85,12,38,7.5,8,4
+RD,August,Maharashtra,125,58,58,12,38,7.5,8,4
+RD,August,Tamil Nadu,300,128,128,12,38,7.5,8,4
+RD,August,Tamil Nadu,170,85,85,12,38,7.5,8,4
+RD,August,Tamil Nadu,125,58,58,12,38,7.5,8,4
+RD,August,Uttar Pradesh,300,128,128,12,38,7.5,8,4
+RD,August,Uttar Pradesh,170,85,85,12,38,7.5,8,4
+RD,August,Uttar Pradesh,125,58,58,12,38,7.5,8,4
+RD,August,Uttarakhand,300,128,128,12,38,7.5,8,4
+RD,August,Uttarakhand,170,85,85,12,38,7.5,8,4
+RD,August,Uttarakhand,125,58,58,12,38,7.5,8,4
+BK,February,Andhra Pradesh,300,128,128,12,38,7.5,8,4
+BK,February,Andhra Pradesh,170,85,85,12,38,7.5,8,4
+BK,February,Andhra Pradesh,125,58,58,12,38,7.5,8,4
+BK,February,Karnataka,300,128,128,12,38,7.5,8,4
+BK,February,Karnataka,170,85,85,12,38,7.5,8,4
+BK,February,Karnataka,125,58,58,12,38,7.5,8,4
+BK,February,Maharashtra,300,128,128,12,38,7.5,8,4
+BK,February,Maharashtra,170,85,85,12,38,7.5,8,4
+BK,February,Maharashtra,125,58,58,12,38,7.5,8,4
+BK,February,Tamil Nadu,300,128,128,12,38,7.5,8,4
+BK,February,Tamil Nadu,170,85,85,12,38,7.5,8,4
+BK,February,Tamil Nadu,125,58,58,12,38,7.5,8,4
+BK,February,Uttar Pradesh,300,128,128,12,38,7.5,8,4
+BK,February,Uttar Pradesh,170,85,85,12,38,7.5,8,4
+BK,February,Uttar Pradesh,125,58,58,12,38,7.5,8,4
+BK,February,Uttarakhand,300,128,128,12,38,7.5,8,4
+BK,February,Uttarakhand,170,85,85,12,38,7.5,8,4
+BK,February,Uttarakhand,125,58,58,12,38,7.5,8,4
+BK,March,Andhra Pradesh,300,128,128,12,38,7.5,8,4
+BK,March,Andhra Pradesh,170,85,85,12,38,7.5,8,4
+BK,March,Andhra Pradesh,125,58,58,12,38,7.5,8,4
+BK,March,Karnataka,300,128,128,12,38,7.5,8,4
+BK,March,Karnataka,170,85,85,12,38,7.5,8,4
+BK,March,Karnataka,125,58,58,12,38,7.5,8,4
+BK,March,Maharashtra,300,128,128,12,38,7.5,8,4
+BK,March,Maharashtra,170,85,85,12,38,7.5,8,4
+BK,March,Maharashtra,125,58,58,12,38,7.5,8,4
+BK,March,Tamil Nadu,300,128,128,12,38,7.5,8,4
+BK,March,Tamil Nadu,170,85,85,12,38,7.5,8,4
+BK,March,Tamil Nadu,125,58,58,12,38,7.5,8,4
+BK,March,Uttar Pradesh,300,128,128,12,38,7.5,8,4
+BK,March,Uttar Pradesh,170,85,85,12,38,7.5,8,4
+BK,March,Uttar Pradesh,125,58,58,12,38,7.5,8,4
+BK,March,Uttarakhand,300,128,128,12,38,7.5,8,4
+BK,March,Uttarakhand,170,85,85,12,38,7.5,8,4
+BK,March,Uttarakhand,125,58,58,12,38,7.5,8,4
+BK,April,Andhra Pradesh,300,128,128,12,38,7.5,8,4
+BK,April,Andhra Pradesh,170,85,85,12,38,7.5,8,4
+BK,April,Andhra Pradesh,125,58,58,12,38,7.5,8,4
+BK,April,Karnataka,300,128,128,12,38,7.5,8,4
+BK,April,Karnataka,170,85,85,12,38,7.5,8,4
+BK,April,Karnataka,125,58,58,12,38,7.5,8,4
+BK,April,Maharashtra,300,128,128,12,38,7.5,8,4
+BK,April,Maharashtra,170,85,85,12,38,7.5,8,4
+BK,April,Maharashtra,125,58,58,12,38,7.5,8,4
+BK,April,Tamil Nadu,300,128,128,12,38,7.5,8,4
+BK,April,Tamil Nadu,170,85,85,12,38,7.5,8,4
+BK,April,Tamil Nadu,125,58,58,12,38,7.5,8,4
+BK,April,Uttar Pradesh,300,128,128,12,38,7.5,8,4
+BK,April,Uttar Pradesh,170,85,85,12,38,7.5,8,4
+BK,April,Uttar Pradesh,125,58,58,12,38,7.5,8,4
+BK,April,Uttarakhand,300,128,128,12,38,7.5,8,4
+BK,April,Uttarakhand,170,85,85,12,38,7.5,8,4
+BK,April,Uttarakhand,125,58,58,12,38,7.5,8,4
+BK,May,Andhra Pradesh,300,128,128,12,38,7.5,8,4
+BK,May,Andhra Pradesh,170,85,85,12,38,7.5,8,4
+BK,May,Andhra Pradesh,125,58,58,12,38,7.5,8,4
+BK,May,Karnataka,300,128,128,12,38,7.5,8,4
+BK,May,Karnataka,170,85,85,12,38,7.5,8,4
+BK,May,Karnataka,125,58,58,12,38,7.5,8,4
+BK,May,Maharashtra,300,128,128,12,38,7.5,8,4
+BK,May,Maharashtra,170,85,85,12,38,7.5,8,4
+BK,May,Maharashtra,125,58,58,12,38,7.5,8,4
+BK,May,Tamil Nadu,300,128,128,12,38,7.5,8,4
+BK,May,Tamil Nadu,170,85,85,12,38,7.5,8,4
+BK,May,Tamil Nadu,125,58,58,12,38,7.5,8,4
+BK,May,Uttar Pradesh,300,128,128,12,38,7.5,8,4
+BK,May,Uttar Pradesh,170,85,85,12,38,7.5,8,4
+BK,May,Uttar Pradesh,125,58,58,12,38,7.5,8,4
+BK,May,Uttarakhand,300,128,128,12,38,7.5,8,4
+BK,May,Uttarakhand,170,85,85,12,38,7.5,8,4
+BK,May,Uttarakhand,125,58,58,12,38,7.5,8,4
+BK,June,Andhra Pradesh,300,128,128,12,38,7.5,8,4
+BK,June,Andhra Pradesh,170,85,85,12,38,7.5,8,4
+BK,June,Andhra Pradesh,125,58,58,12,38,7.5,8,4
+BK,June,Karnataka,300,128,128,12,38,7.5,8,4
+BK,June,Karnataka,170,85,85,12,38,7.5,8,4
+BK,June,Karnataka,125,58,58,12,38,7.5,8,4
+BK,June,Maharashtra,300,128,128,12,38,7.5,8,4
+BK,June,Maharashtra,170,85,85,12,38,7.5,8,4
+BK,June,Maharashtra,125,58,58,12,38,7.5,8,4
+BK,June,Tamil Nadu,300,128,128,12,38,7.5,8,4
+BK,June,Tamil Nadu,170,85,85,12,38,7.5,8,4
+BK,June,Tamil Nadu,125,58,58,12,38,7.5,8,4
+BK,June,Uttar Pradesh,300,128,128,12,38,7.5,8,4
+BK,June,Uttar Pradesh,170,85,85,12,38,7.5,8,4
+BK,June,Uttar Pradesh,125,58,58,12,38,7.5,8,4
+BK,June,Uttarakhand,300,128,128,12,38,7.5,8,4
+BK,June,Uttarakhand,170,85,85,12,38,7.5,8,4
+BK,June,Uttarakhand,125,58,58,12,38,7.5,8,4
+BK,July,Andhra Pradesh,300,128,128,12,38,7.5,8,4
+BK,July,Andhra Pradesh,170,85,85,12,38,7.5,8,4
+BK,July,Andhra Pradesh,125,58,58,12,38,7.5,8,4
+BK,July,Karnataka,300,128,128,12,38,7.5,8,4
+BK,July,Karnataka,170,85,85,12,38,7.5,8,4
+BK,July,Karnataka,125,58,58,12,38,7.5,8,4
+BK,July,Maharashtra,300,128,128,12,38,7.5,8,4
+BK,July,Maharashtra,170,85,85,12,38,7.5,8,4
+BK,July,Maharashtra,125,58,58,12,38,7.5,8,4
+BK,July,Tamil Nadu,300,128,128,12,38,7.5,8,4
+BK,July,Tamil Nadu,170,85,85,12,38,7.5,8,4
+BK,July,Tamil Nadu,125,58,58,12,38,7.5,8,4
+BK,July,Uttar Pradesh,300,128,128,12,38,7.5,8,4
+BK,July,Uttar Pradesh,170,85,85,12,38,7.5,8,4
+BK,July,Uttar Pradesh,125,58,58,12,38,7.5,8,4
+BK,July,Uttarakhand,300,128,128,12,38,7.5,8,4
+BK,July,Uttarakhand,170,85,85,12,38,7.5,8,4
+BK,July,Uttarakhand,125,58,58,12,38,7.5,8,4
+BK,August,Andhra Pradesh,300,128,128,12,38,7.5,8,4
+BK,August,Andhra Pradesh,170,85,85,12,38,7.5,8,4
+BK,August,Andhra Pradesh,125,58,58,12,38,7.5,8,4
+BK,August,Karnataka,300,128,128,12,38,7.5,8,4
+BK,August,Karnataka,170,85,85,12,38,7.5,8,4
+BK,August,Karnataka,125,58,58,12,38,7.5,8,4
+BK,August,Maharashtra,300,128,128,12,38,7.5,8,4
+BK,August,Maharashtra,170,85,85,12,38,7.5,8,4
+BK,August,Maharashtra,125,58,58,12,38,7.5,8,4
+BK,August,Tamil Nadu,300,128,128,12,38,7.5,8,4
+BK,August,Tamil Nadu,170,85,85,12,38,7.5,8,4
+BK,August,Tamil Nadu,125,58,58,12,38,7.5,8,4
+BK,August,Uttar Pradesh,300,128,128,12,38,7.5,8,4
+BK,August,Uttar Pradesh,170,85,85,12,38,7.5,8,4
+BK,August,Uttar Pradesh,125,58,58,12,38,7.5,8,4
+BK,August,Uttarakhand,300,128,128,12,38,7.5,8,4
+BK,August,Uttarakhand,170,85,85,12,38,7.5,8,4
+BK,August,Uttarakhand,125,58,58,12,38,7.5,8,4
+AL,April,Andhra Pradesh,100,50,50,15,35,6,8,3
+AL,April,Gujarat,100,50,50,15,35,6,8,3
+AL,April,Haryana,100,50,50,15,35,6,8,3
+AL,April,Karnataka,100,50,50,15,35,6,8,3
+AL,April,Madhya Pradesh,100,50,50,15,35,6,8,3
+AL,April,Maharashtra,100,50,50,15,35,6,8,3
+AL,April,Orissa,100,50,50,15,35,6,8,3
+AL,April,Punjab,100,50,50,15,35,6,8,3
+AL,April,Rajasthan,100,50,50,15,35,6,8,3
+AL,April,Tamil Nadu,100,50,50,15,35,6,8,3
+AL,May,Andhra Pradesh,100,50,50,15,35,6,8,3
+AL,May,Gujarat,100,50,50,15,35,6,8,3
+AL,May,Haryana,100,50,50,15,35,6,8,3
+AL,May,Karnataka,100,50,50,15,35,6,8,3
+AL,May,Madhya Pradesh,100,50,50,15,35,6,8,3
+AL,May,Maharashtra,100,50,50,15,35,6,8,3
+AL,May,Orissa,100,50,50,15,35,6,8,3
+AL,May,Punjab,100,50,50,15,35,6,8,3
+AL,May,Rajasthan,100,50,50,15,35,6,8,3
+AL,May,Tamil Nadu,100,50,50,15,35,6,8,3
+AL,June,Andhra Pradesh,100,50,50,15,35,6,8,3
+AL,June,Gujarat,100,50,50,15,35,6,8,3
+AL,June,Haryana,100,50,50,15,35,6,8,3
+AL,June,Karnataka,100,50,50,15,35,6,8,3
+AL,June,Madhya Pradesh,100,50,50,15,35,6,8,3
+AL,June,Maharashtra,100,50,50,15,35,6,8,3
+AL,June,Orissa,100,50,50,15,35,6,8,3
+AL,June,Punjab,100,50,50,15,35,6,8,3
+AL,June,Rajasthan,100,50,50,15,35,6,8,3
+AL,June,Tamil Nadu,100,50,50,15,35,6,8,3
+AL,July,Andhra Pradesh,100,50,50,15,35,6,8,3
+AL,July,Gujarat,100,50,50,15,35,6,8,3
+AL,July,Haryana,100,50,50,15,35,6,8,3
+AL,July,Karnataka,100,50,50,15,35,6,8,3
+AL,July,Madhya Pradesh,100,50,50,15,35,6,8,3
+AL,July,Maharashtra,100,50,50,15,35,6,8,3
+AL,July,Orissa,100,50,50,15,35,6,8,3
+AL,July,Punjab,100,50,50,15,35,6,8,3
+AL,July,Rajasthan,100,50,50,15,35,6,8,3
+AL,July,Tamil Nadu,100,50,50,15,35,6,8,3
+AL,August,Andhra Pradesh,100,50,50,15,35,6,8,3
+AL,August,Gujarat,100,50,50,15,35,6,8,3
+AL,August,Haryana,100,50,50,15,35,6,8,3
+AL,August,Karnataka,100,50,50,15,35,6,8,3
+AL,August,Madhya Pradesh,100,50,50,15,35,6,8,3
+AL,August,Maharashtra,100,50,50,15,35,6,8,3
+AL,August,Orissa,100,50,50,15,35,6,8,3
+AL,August,Punjab,100,50,50,15,35,6,8,3
+AL,August,Rajasthan,100,50,50,15,35,6,8,3
+AL,August,Tamil Nadu,100,50,50,15,35,6,8,3
+BK,April,Andhra Pradesh,100,50,50,15,35,6,8,3
+BK,April,Gujarat,100,50,50,15,35,6,8,3
+BK,April,Haryana,100,50,50,15,35,6,8,3
+BK,April,Karnataka,100,50,50,15,35,6,8,3
+BK,April,Madhya Pradesh,100,50,50,15,35,6,8,3
+BK,April,Maharashtra,100,50,50,15,35,6,8,3
+BK,April,Orissa,100,50,50,15,35,6,8,3
+BK,April,Punjab,100,50,50,15,35,6,8,3
+BK,April,Rajasthan,100,50,50,15,35,6,8,3
+BK,April,Tamil Nadu,100,50,50,15,35,6,8,3
+BK,May,Andhra Pradesh,100,50,50,15,35,6,8,3
+BK,May,Gujarat,100,50,50,15,35,6,8,3
+BK,May,Haryana,100,50,50,15,35,6,8,3
+BK,May,Karnataka,100,50,50,15,35,6,8,3
+BK,May,Madhya Pradesh,100,50,50,15,35,6,8,3
+BK,May,Maharashtra,100,50,50,15,35,6,8,3
+BK,May,Orissa,100,50,50,15,35,6,8,3
+BK,May,Punjab,100,50,50,15,35,6,8,3
+BK,May,Rajasthan,100,50,50,15,35,6,8,3
+BK,May,Tamil Nadu,100,50,50,15,35,6,8,3
+BK,June,Andhra Pradesh,100,50,50,15,35,6,8,3
+BK,June,Gujarat,100,50,50,15,35,6,8,3
+BK,June,Haryana,100,50,50,15,35,6,8,3
+BK,June,Karnataka,100,50,50,15,35,6,8,3
+BK,June,Madhya Pradesh,100,50,50,15,35,6,8,3
+BK,June,Maharashtra,100,50,50,15,35,6,8,3
+BK,June,Orissa,100,50,50,15,35,6,8,3
+BK,June,Punjab,100,50,50,15,35,6,8,3
+BK,June,Rajasthan,100,50,50,15,35,6,8,3
+BK,June,Tamil Nadu,100,50,50,15,35,6,8,3
+BK,July,Andhra Pradesh,100,50,50,15,35,6,8,3
+BK,July,Gujarat,100,50,50,15,35,6,8,3
+BK,July,Haryana,100,50,50,15,35,6,8,3
+BK,July,Karnataka,100,50,50,15,35,6,8,3
+BK,July,Madhya Pradesh,100,50,50,15,35,6,8,3
+BK,July,Maharashtra,100,50,50,15,35,6,8,3
+BK,July,Orissa,100,50,50,15,35,6,8,3
+BK,July,Punjab,100,50,50,15,35,6,8,3
+BK,July,Rajasthan,100,50,50,15,35,6,8,3
+BK,July,Tamil Nadu,100,50,50,15,35,6,8,3
+BK,August,Andhra Pradesh,100,50,50,15,35,6,8,3
+BK,August,Gujarat,100,50,50,15,35,6,8,3
+BK,August,Haryana,100,50,50,15,35,6,8,3
+BK,August,Karnataka,100,50,50,15,35,6,8,3
+BK,August,Madhya Pradesh,100,50,50,15,35,6,8,3
+BK,August,Maharashtra,100,50,50,15,35,6,8,3
+BK,August,Orissa,100,50,50,15,35,6,8,3
+BK,August,Punjab,100,50,50,15,35,6,8,3
+BK,August,Rajasthan,100,50,50,15,35,6,8,3
+BK,August,Tamil Nadu,100,50,50,15,35,6,8,3
+AL,October,Bihar,120,60,40,16,25,6,7,2
+AL,October,Gujarat,120,60,40,16,25,6,7,2
+AL,October,Haryana,120,60,40,16,25,6,7,2
+AL,October,Himachal Pradesh,120,60,40,16,25,6,7,2
+AL,October,Madhya Pradesh,120,60,40,16,25,6,7,2
+AL,October,Punjab,120,60,40,16,25,6,7,2
+AL,October,Rajasthan,120,60,40,16,25,6,7,2
+AL,October,Uttar Pradesh,120,60,40,16,25,6,7,2
+AL,October,West Bengal,120,60,40,16,25,6,7,2
+AL,October,Jharkhand,120,60,40,16,25,6,7,2
+AL,October,Uttarakhand,120,60,40,16,25,6,7,2
+AL,November,Bihar,120,60,40,16,25,6,7,2
+AL,November,Gujarat,120,60,40,16,25,6,7,2
+AL,November,Haryana,120,60,40,16,25,6,7,2
+AL,November,Himachal Pradesh,120,60,40,16,25,6,7,2
+AL,November,Madhya Pradesh,120,60,40,16,25,6,7,2
+AL,November,Punjab,120,60,40,16,25,6,7,2
+AL,November,Rajasthan,120,60,40,16,25,6,7,2
+AL,November,Uttar Pradesh,120,60,40,16,25,6,7,2
+AL,November,West Bengal,120,60,40,16,25,6,7,2
+AL,November,Jharkhand,120,60,40,16,25,6,7,2
+AL,November,Uttarakhand,120,60,40,16,25,6,7,2
+AL,December,Bihar,120,60,40,16,25,6,7,2
+AL,December,Gujarat,120,60,40,16,25,6,7,2
+AL,December,Haryana,120,60,40,16,25,6,7,2
+AL,December,Himachal Pradesh,120,60,40,16,25,6,7,2
+AL,December,Madhya Pradesh,120,60,40,16,25,6,7,2
+AL,December,Punjab,120,60,40,16,25,6,7,2
+AL,December,Rajasthan,120,60,40,16,25,6,7,2
+AL,December,Uttar Pradesh,120,60,40,16,25,6,7,2
+AL,December,West Bengal,120,60,40,16,25,6,7,2
+AL,December,Jharkhand,120,60,40,16,25,6,7,2
+AL,December,Uttarakhand,120,60,40,16,25,6,7,2
+RD,October,Bihar,120,60,40,16,25,6,7,2
+RD,October,Gujarat,120,60,40,16,25,6,7,2
+RD,October,Haryana,120,60,40,16,25,6,7,2
+RD,October,Himachal Pradesh,120,60,40,16,25,6,7,2
+RD,October,Madhya Pradesh,120,60,40,16,25,6,7,2
+RD,October,Punjab,120,60,40,16,25,6,7,2
+RD,October,Rajasthan,120,60,40,16,25,6,7,2
+RD,October,Uttar Pradesh,120,60,40,16,25,6,7,2
+RD,October,West Bengal,120,60,40,16,25,6,7,2
+RD,October,Jharkhand,120,60,40,16,25,6,7,2
+RD,October,Uttarakhand,120,60,40,16,25,6,7,2
+RD,November,Bihar,120,60,40,16,25,6,7,2
+RD,November,Gujarat,120,60,40,16,25,6,7,2
+RD,November,Haryana,120,60,40,16,25,6,7,2
+RD,November,Himachal Pradesh,120,60,40,16,25,6,7,2
+RD,November,Madhya Pradesh,120,60,40,16,25,6,7,2
+RD,November,Punjab,120,60,40,16,25,6,7,2
+RD,November,Rajasthan,120,60,40,16,25,6,7,2
+RD,November,Uttar Pradesh,120,60,40,16,25,6,7,2
+RD,November,West Bengal,120,60,40,16,25,6,7,2
+RD,November,Jharkhand,120,60,40,16,25,6,7,2
+RD,November,Uttarakhand,120,60,40,16,25,6,7,2
+RD,December,Bihar,120,60,40,16,25,6,7,2
+RD,December,Gujarat,120,60,40,16,25,6,7,2
+RD,December,Haryana,120,60,40,16,25,6,7,2
+RD,December,Himachal Pradesh,120,60,40,16,25,6,7,2
+RD,December,Madhya Pradesh,120,60,40,16,25,6,7,2
+RD,December,Punjab,120,60,40,16,25,6,7,2
+RD,December,Rajasthan,120,60,40,16,25,6,7,2
+RD,December,Uttar Pradesh,120,60,40,16,25,6,7,2
+RD,December,West Bengal,120,60,40,16,25,6,7,2
+RD,December,Jharkhand,120,60,40,16,25,6,7,2
+RD,December,Uttarakhand,120,60,40,16,25,6,7,2
+BK,October,Bihar,120,60,40,16,25,6,7,2
+BK,October,Gujarat,120,60,40,16,25,6,7,2
+BK,October,Haryana,120,60,40,16,25,6,7,2
+BK,October,Himachal Pradesh,120,60,40,16,25,6,7,2
+BK,October,Madhya Pradesh,120,60,40,16,25,6,7,2
+BK,October,Punjab,120,60,40,16,25,6,7,2
+BK,October,Rajasthan,120,60,40,16,25,6,7,2
+BK,October,Uttar Pradesh,120,60,40,16,25,6,7,2
+BK,October,West Bengal,120,60,40,16,25,6,7,2
+BK,October,Jharkhand,120,60,40,16,25,6,7,2
+BK,October,Uttarakhand,120,60,40,16,25,6,7,2
+BK,November,Bihar,120,60,40,16,25,6,7,2
+BK,November,Gujarat,120,60,40,16,25,6,7,2
+BK,November,Haryana,120,60,40,16,25,6,7,2
+BK,November,Himachal Pradesh,120,60,40,16,25,6,7,2
+BK,November,Madhya Pradesh,120,60,40,16,25,6,7,2
+BK,November,Punjab,120,60,40,16,25,6,7,2
+BK,November,Rajasthan,120,60,40,16,25,6,7,2
+BK,November,Uttar Pradesh,120,60,40,16,25,6,7,2
+BK,November,West Bengal,120,60,40,16,25,6,7,2
+BK,November,Jharkhand,120,60,40,16,25,6,7,2
+BK,November,Uttarakhand,120,60,40,16,25,6,7,2
+BK,December,Bihar,120,60,40,16,25,6,7,2
+BK,December,Gujarat,120,60,40,16,25,6,7,2
+BK,December,Haryana,120,60,40,16,25,6,7,2
+BK,December,Himachal Pradesh,120,60,40,16,25,6,7,2
+BK,December,Madhya Pradesh,120,60,40,16,25,6,7,2
+BK,December,Punjab,120,60,40,16,25,6,7,2
+BK,December,Rajasthan,120,60,40,16,25,6,7,2
+BK,December,Uttar Pradesh,120,60,40,16,25,6,7,2
+BK,December,West Bengal,120,60,40,16,25,6,7,2
+BK,December,Jharkhand,120,60,40,16,25,6,7,2
+BK,December,Uttarakhand,120,60,40,16,25,6,7,2
+RD,January,Andhra Pradesh,40,20,20,20,30,6.2,8,8
+RD,January,Andhra Pradesh,50,25,25,20,30,6.2,8,8
+RD,January,Gujarat,40,20,20,20,30,6.2,8,8
+RD,January,Gujarat,50,25,25,20,30,6.2,8,8
+RD,January,Haryana,40,20,20,20,30,6.2,8,8
+RD,January,Haryana,50,25,25,20,30,6.2,8,8
+RD,January,Karnataka,40,20,20,20,30,6.2,8,8
+RD,January,Karnataka,50,25,25,20,30,6.2,8,8
+RD,January,Madhya Pradesh,40,20,20,20,30,6.2,8,8
+RD,January,Madhya Pradesh,50,25,25,20,30,6.2,8,8
+RD,January,Maharashtra,40,20,20,20,30,6.2,8,8
+RD,January,Maharashtra,50,25,25,20,30,6.2,8,8
+RD,January,Rajasthan,40,20,20,20,30,6.2,8,8
+RD,January,Rajasthan,50,25,25,20,30,6.2,8,8
+RD,January,Tamil Nadu,40,20,20,20,30,6.2,8,8
+RD,January,Tamil Nadu,50,25,25,20,30,6.2,8,8
+RD,January,Uttar Pradesh,40,20,20,20,30,6.2,8,8
+RD,January,Uttar Pradesh,50,25,25,20,30,6.2,8,8
+RD,February,Andhra Pradesh,40,20,20,20,30,6.2,8,8
+RD,February,Andhra Pradesh,50,25,25,20,30,6.2,8,8
+RD,February,Gujarat,40,20,20,20,30,6.2,8,8
+RD,February,Gujarat,50,25,25,20,30,6.2,8,8
+RD,February,Haryana,40,20,20,20,30,6.2,8,8
+RD,February,Haryana,50,25,25,20,30,6.2,8,8
+RD,February,Karnataka,40,20,20,20,30,6.2,8,8
+RD,February,Karnataka,50,25,25,20,30,6.2,8,8
+RD,February,Madhya Pradesh,40,20,20,20,30,6.2,8,8
+RD,February,Madhya Pradesh,50,25,25,20,30,6.2,8,8
+RD,February,Maharashtra,40,20,20,20,30,6.2,8,8
+RD,February,Maharashtra,50,25,25,20,30,6.2,8,8
+RD,February,Rajasthan,40,20,20,20,30,6.2,8,8
+RD,February,Rajasthan,50,25,25,20,30,6.2,8,8
+RD,February,Tamil Nadu,40,20,20,20,30,6.2,8,8
+RD,February,Tamil Nadu,50,25,25,20,30,6.2,8,8
+RD,February,Uttar Pradesh,40,20,20,20,30,6.2,8,8
+RD,February,Uttar Pradesh,50,25,25,20,30,6.2,8,8
+RD,May,Andhra Pradesh,40,20,20,20,30,6.2,8,8
+RD,May,Andhra Pradesh,50,25,25,20,30,6.2,8,8
+RD,May,Gujarat,40,20,20,20,30,6.2,8,8
+RD,May,Gujarat,50,25,25,20,30,6.2,8,8
+RD,May,Haryana,40,20,20,20,30,6.2,8,8
+RD,May,Haryana,50,25,25,20,30,6.2,8,8
+RD,May,Karnataka,40,20,20,20,30,6.2,8,8
+RD,May,Karnataka,50,25,25,20,30,6.2,8,8
+RD,May,Madhya Pradesh,40,20,20,20,30,6.2,8,8
+RD,May,Madhya Pradesh,50,25,25,20,30,6.2,8,8
+RD,May,Maharashtra,40,20,20,20,30,6.2,8,8
+RD,May,Maharashtra,50,25,25,20,30,6.2,8,8
+RD,May,Rajasthan,40,20,20,20,30,6.2,8,8
+RD,May,Rajasthan,50,25,25,20,30,6.2,8,8
+RD,May,Tamil Nadu,40,20,20,20,30,6.2,8,8
+RD,May,Tamil Nadu,50,25,25,20,30,6.2,8,8
+RD,May,Uttar Pradesh,40,20,20,20,30,6.2,8,8
+RD,May,Uttar Pradesh,50,25,25,20,30,6.2,8,8
+RD,June,Andhra Pradesh,40,20,20,20,30,6.2,8,8
+RD,June,Andhra Pradesh,50,25,25,20,30,6.2,8,8
+RD,June,Gujarat,40,20,20,20,30,6.2,8,8
+RD,June,Gujarat,50,25,25,20,30,6.2,8,8
+RD,June,Haryana,40,20,20,20,30,6.2,8,8
+RD,June,Haryana,50,25,25,20,30,6.2,8,8
+RD,June,Karnataka,40,20,20,20,30,6.2,8,8
+RD,June,Karnataka,50,25,25,20,30,6.2,8,8
+RD,June,Madhya Pradesh,40,20,20,20,30,6.2,8,8
+RD,June,Madhya Pradesh,50,25,25,20,30,6.2,8,8
+RD,June,Maharashtra,40,20,20,20,30,6.2,8,8
+RD,June,Maharashtra,50,25,25,20,30,6.2,8,8
+RD,June,Rajasthan,40,20,20,20,30,6.2,8,8
+RD,June,Rajasthan,50,25,25,20,30,6.2,8,8
+RD,June,Tamil Nadu,40,20,20,20,30,6.2,8,8
+RD,June,Tamil Nadu,50,25,25,20,30,6.2,8,8
+RD,June,Uttar Pradesh,40,20,20,20,30,6.2,8,8
+RD,June,Uttar Pradesh,50,25,25,20,30,6.2,8,8
+RD,July,Andhra Pradesh,40,20,20,20,30,6.2,8,8
+RD,July,Andhra Pradesh,50,25,25,20,30,6.2,8,8
+RD,July,Gujarat,40,20,20,20,30,6.2,8,8
+RD,July,Gujarat,50,25,25,20,30,6.2,8,8
+RD,July,Haryana,40,20,20,20,30,6.2,8,8
+RD,July,Haryana,50,25,25,20,30,6.2,8,8
+RD,July,Karnataka,40,20,20,20,30,6.2,8,8
+RD,July,Karnataka,50,25,25,20,30,6.2,8,8
+RD,July,Madhya Pradesh,40,20,20,20,30,6.2,8,8
+RD,July,Madhya Pradesh,50,25,25,20,30,6.2,8,8
+RD,July,Maharashtra,40,20,20,20,30,6.2,8,8
+RD,July,Maharashtra,50,25,25,20,30,6.2,8,8
+RD,July,Rajasthan,40,20,20,20,30,6.2,8,8
+RD,July,Rajasthan,50,25,25,20,30,6.2,8,8
+RD,July,Tamil Nadu,40,20,20,20,30,6.2,8,8
+RD,July,Tamil Nadu,50,25,25,20,30,6.2,8,8
+RD,July,Uttar Pradesh,40,20,20,20,30,6.2,8,8
+RD,July,Uttar Pradesh,50,25,25,20,30,6.2,8,8
+RD,August,Andhra Pradesh,40,20,20,20,30,6.2,8,8
+RD,August,Andhra Pradesh,50,25,25,20,30,6.2,8,8
+RD,August,Gujarat,40,20,20,20,30,6.2,8,8
+RD,August,Gujarat,50,25,25,20,30,6.2,8,8
+RD,August,Haryana,40,20,20,20,30,6.2,8,8
+RD,August,Haryana,50,25,25,20,30,6.2,8,8
+RD,August,Karnataka,40,20,20,20,30,6.2,8,8
+RD,August,Karnataka,50,25,25,20,30,6.2,8,8
+RD,August,Madhya Pradesh,40,20,20,20,30,6.2,8,8
+RD,August,Madhya Pradesh,50,25,25,20,30,6.2,8,8
+RD,August,Maharashtra,40,20,20,20,30,6.2,8,8
+RD,August,Maharashtra,50,25,25,20,30,6.2,8,8
+RD,August,Rajasthan,40,20,20,20,30,6.2,8,8
+RD,August,Rajasthan,50,25,25,20,30,6.2,8,8
+RD,August,Tamil Nadu,40,20,20,20,30,6.2,8,8
+RD,August,Tamil Nadu,50,25,25,20,30,6.2,8,8
+RD,August,Uttar Pradesh,40,20,20,20,30,6.2,8,8
+RD,August,Uttar Pradesh,50,25,25,20,30,6.2,8,8
+BK,January,Andhra Pradesh,40,20,20,20,30,6.2,8,8
+BK,January,Andhra Pradesh,50,25,25,20,30,6.2,8,8
+BK,January,Gujarat,40,20,20,20,30,6.2,8,8
+BK,January,Gujarat,50,25,25,20,30,6.2,8,8
+BK,January,Haryana,40,20,20,20,30,6.2,8,8
+BK,January,Haryana,50,25,25,20,30,6.2,8,8
+BK,January,Karnataka,40,20,20,20,30,6.2,8,8
+BK,January,Karnataka,50,25,25,20,30,6.2,8,8
+BK,January,Madhya Pradesh,40,20,20,20,30,6.2,8,8
+BK,January,Madhya Pradesh,50,25,25,20,30,6.2,8,8
+BK,January,Maharashtra,40,20,20,20,30,6.2,8,8
+BK,January,Maharashtra,50,25,25,20,30,6.2,8,8
+BK,January,Rajasthan,40,20,20,20,30,6.2,8,8
+BK,January,Rajasthan,50,25,25,20,30,6.2,8,8
+BK,January,Tamil Nadu,40,20,20,20,30,6.2,8,8
+BK,January,Tamil Nadu,50,25,25,20,30,6.2,8,8
+BK,January,Uttar Pradesh,40,20,20,20,30,6.2,8,8
+BK,January,Uttar Pradesh,50,25,25,20,30,6.2,8,8
+BK,February,Andhra Pradesh,40,20,20,20,30,6.2,8,8
+BK,February,Andhra Pradesh,50,25,25,20,30,6.2,8,8
+BK,February,Gujarat,40,20,20,20,30,6.2,8,8
+BK,February,Gujarat,50,25,25,20,30,6.2,8,8
+BK,February,Haryana,40,20,20,20,30,6.2,8,8
+BK,February,Haryana,50,25,25,20,30,6.2,8,8
+BK,February,Karnataka,40,20,20,20,30,6.2,8,8
+BK,February,Karnataka,50,25,25,20,30,6.2,8,8
+BK,February,Madhya Pradesh,40,20,20,20,30,6.2,8,8
+BK,February,Madhya Pradesh,50,25,25,20,30,6.2,8,8
+BK,February,Maharashtra,40,20,20,20,30,6.2,8,8
+BK,February,Maharashtra,50,25,25,20,30,6.2,8,8
+BK,February,Rajasthan,40,20,20,20,30,6.2,8,8
+BK,February,Rajasthan,50,25,25,20,30,6.2,8,8
+BK,February,Tamil Nadu,40,20,20,20,30,6.2,8,8
+BK,February,Tamil Nadu,50,25,25,20,30,6.2,8,8
+BK,February,Uttar Pradesh,40,20,20,20,30,6.2,8,8
+BK,February,Uttar Pradesh,50,25,25,20,30,6.2,8,8
+BK,May,Andhra Pradesh,40,20,20,20,30,6.2,8,8
+BK,May,Andhra Pradesh,50,25,25,20,30,6.2,8,8
+BK,May,Gujarat,40,20,20,20,30,6.2,8,8
+BK,May,Gujarat,50,25,25,20,30,6.2,8,8
+BK,May,Haryana,40,20,20,20,30,6.2,8,8
+BK,May,Haryana,50,25,25,20,30,6.2,8,8
+BK,May,Karnataka,40,20,20,20,30,6.2,8,8
+BK,May,Karnataka,50,25,25,20,30,6.2,8,8
+BK,May,Madhya Pradesh,40,20,20,20,30,6.2,8,8
+BK,May,Madhya Pradesh,50,25,25,20,30,6.2,8,8
+BK,May,Maharashtra,40,20,20,20,30,6.2,8,8
+BK,May,Maharashtra,50,25,25,20,30,6.2,8,8
+BK,May,Rajasthan,40,20,20,20,30,6.2,8,8
+BK,May,Rajasthan,50,25,25,20,30,6.2,8,8
+BK,May,Tamil Nadu,40,20,20,20,30,6.2,8,8
+BK,May,Tamil Nadu,50,25,25,20,30,6.2,8,8
+BK,May,Uttar Pradesh,40,20,20,20,30,6.2,8,8
+BK,May,Uttar Pradesh,50,25,25,20,30,6.2,8,8
+BK,June,Andhra Pradesh,40,20,20,20,30,6.2,8,8
+BK,June,Andhra Pradesh,50,25,25,20,30,6.2,8,8
+BK,June,Gujarat,40,20,20,20,30,6.2,8,8
+BK,June,Gujarat,50,25,25,20,30,6.2,8,8
+BK,June,Haryana,40,20,20,20,30,6.2,8,8
+BK,June,Haryana,50,25,25,20,30,6.2,8,8
+BK,June,Karnataka,40,20,20,20,30,6.2,8,8
+BK,June,Karnataka,50,25,25,20,30,6.2,8,8
+BK,June,Madhya Pradesh,40,20,20,20,30,6.2,8,8
+BK,June,Madhya Pradesh,50,25,25,20,30,6.2,8,8
+BK,June,Maharashtra,40,20,20,20,30,6.2,8,8
+BK,June,Maharashtra,50,25,25,20,30,6.2,8,8
+BK,June,Rajasthan,40,20,20,20,30,6.2,8,8
+BK,June,Rajasthan,50,25,25,20,30,6.2,8,8
+BK,June,Tamil Nadu,40,20,20,20,30,6.2,8,8
+BK,June,Tamil Nadu,50,25,25,20,30,6.2,8,8
+BK,June,Uttar Pradesh,40,20,20,20,30,6.2,8,8
+BK,June,Uttar Pradesh,50,25,25,20,30,6.2,8,8
+BK,July,Andhra Pradesh,40,20,20,20,30,6.2,8,8
+BK,July,Andhra Pradesh,50,25,25,20,30,6.2,8,8
+BK,July,Gujarat,40,20,20,20,30,6.2,8,8
+BK,July,Gujarat,50,25,25,20,30,6.2,8,8
+BK,July,Haryana,40,20,20,20,30,6.2,8,8
+BK,July,Haryana,50,25,25,20,30,6.2,8,8
+BK,July,Karnataka,40,20,20,20,30,6.2,8,8
+BK,July,Karnataka,50,25,25,20,30,6.2,8,8
+BK,July,Madhya Pradesh,40,20,20,20,30,6.2,8,8
+BK,July,Madhya Pradesh,50,25,25,20,30,6.2,8,8
+BK,July,Maharashtra,40,20,20,20,30,6.2,8,8
+BK,July,Maharashtra,50,25,25,20,30,6.2,8,8
+BK,July,Rajasthan,40,20,20,20,30,6.2,8,8
+BK,July,Rajasthan,50,25,25,20,30,6.2,8,8
+BK,July,Tamil Nadu,40,20,20,20,30,6.2,8,8
+BK,July,Tamil Nadu,50,25,25,20,30,6.2,8,8
+BK,July,Uttar Pradesh,40,20,20,20,30,6.2,8,8
+BK,July,Uttar Pradesh,50,25,25,20,30,6.2,8,8
+BK,August,Andhra Pradesh,40,20,20,20,30,6.2,8,8
+BK,August,Andhra Pradesh,50,25,25,20,30,6.2,8,8
+BK,August,Gujarat,40,20,20,20,30,6.2,8,8
+BK,August,Gujarat,50,25,25,20,30,6.2,8,8
+BK,August,Haryana,40,20,20,20,30,6.2,8,8
+BK,August,Haryana,50,25,25,20,30,6.2,8,8
+BK,August,Karnataka,40,20,20,20,30,6.2,8,8
+BK,August,Karnataka,50,25,25,20,30,6.2,8,8
+BK,August,Madhya Pradesh,40,20,20,20,30,6.2,8,8
+BK,August,Madhya Pradesh,50,25,25,20,30,6.2,8,8
+BK,August,Maharashtra,40,20,20,20,30,6.2,8,8
+BK,August,Maharashtra,50,25,25,20,30,6.2,8,8
+BK,August,Rajasthan,40,20,20,20,30,6.2,8,8
+BK,August,Rajasthan,50,25,25,20,30,6.2,8,8
+BK,August,Tamil Nadu,40,20,20,20,30,6.2,8,8
+BK,August,Tamil Nadu,50,25,25,20,30,6.2,8,8
+BK,August,Uttar Pradesh,40,20,20,20,30,6.2,8,8
+BK,August,Uttar Pradesh,50,25,25,20,30,6.2,8,8
+DT,January,Andhra Pradesh,40,20,20,20,30,6.2,8,8
+DT,January,Andhra Pradesh,50,25,25,20,30,6.2,8,8
+DT,January,Gujarat,40,20,20,20,30,6.2,8,8
+DT,January,Gujarat,50,25,25,20,30,6.2,8,8
+DT,January,Haryana,40,20,20,20,30,6.2,8,8
+DT,January,Haryana,50,25,25,20,30,6.2,8,8
+DT,January,Karnataka,40,20,20,20,30,6.2,8,8
+DT,January,Karnataka,50,25,25,20,30,6.2,8,8
+DT,January,Madhya Pradesh,40,20,20,20,30,6.2,8,8
+DT,January,Madhya Pradesh,50,25,25,20,30,6.2,8,8
+DT,January,Maharashtra,40,20,20,20,30,6.2,8,8
+DT,January,Maharashtra,50,25,25,20,30,6.2,8,8
+DT,January,Rajasthan,40,20,20,20,30,6.2,8,8
+DT,January,Rajasthan,50,25,25,20,30,6.2,8,8
+DT,January,Tamil Nadu,40,20,20,20,30,6.2,8,8
+DT,January,Tamil Nadu,50,25,25,20,30,6.2,8,8
+DT,January,Uttar Pradesh,40,20,20,20,30,6.2,8,8
+DT,January,Uttar Pradesh,50,25,25,20,30,6.2,8,8
+DT,February,Andhra Pradesh,40,20,20,20,30,6.2,8,8
+DT,February,Andhra Pradesh,50,25,25,20,30,6.2,8,8
+DT,February,Gujarat,40,20,20,20,30,6.2,8,8
+DT,February,Gujarat,50,25,25,20,30,6.2,8,8
+DT,February,Haryana,40,20,20,20,30,6.2,8,8
+DT,February,Haryana,50,25,25,20,30,6.2,8,8
+DT,February,Karnataka,40,20,20,20,30,6.2,8,8
+DT,February,Karnataka,50,25,25,20,30,6.2,8,8
+DT,February,Madhya Pradesh,40,20,20,20,30,6.2,8,8
+DT,February,Madhya Pradesh,50,25,25,20,30,6.2,8,8
+DT,February,Maharashtra,40,20,20,20,30,6.2,8,8
+DT,February,Maharashtra,50,25,25,20,30,6.2,8,8
+DT,February,Rajasthan,40,20,20,20,30,6.2,8,8
+DT,February,Rajasthan,50,25,25,20,30,6.2,8,8
+DT,February,Tamil Nadu,40,20,20,20,30,6.2,8,8
+DT,February,Tamil Nadu,50,25,25,20,30,6.2,8,8
+DT,February,Uttar Pradesh,40,20,20,20,30,6.2,8,8
+DT,February,Uttar Pradesh,50,25,25,20,30,6.2,8,8
+DT,May,Andhra Pradesh,40,20,20,20,30,6.2,8,8
+DT,May,Andhra Pradesh,50,25,25,20,30,6.2,8,8
+DT,May,Gujarat,40,20,20,20,30,6.2,8,8
+DT,May,Gujarat,50,25,25,20,30,6.2,8,8
+DT,May,Haryana,40,20,20,20,30,6.2,8,8
+DT,May,Haryana,50,25,25,20,30,6.2,8,8
+DT,May,Karnataka,40,20,20,20,30,6.2,8,8
+DT,May,Karnataka,50,25,25,20,30,6.2,8,8
+DT,May,Madhya Pradesh,40,20,20,20,30,6.2,8,8
+DT,May,Madhya Pradesh,50,25,25,20,30,6.2,8,8
+DT,May,Maharashtra,40,20,20,20,30,6.2,8,8
+DT,May,Maharashtra,50,25,25,20,30,6.2,8,8
+DT,May,Rajasthan,40,20,20,20,30,6.2,8,8
+DT,May,Rajasthan,50,25,25,20,30,6.2,8,8
+DT,May,Tamil Nadu,40,20,20,20,30,6.2,8,8
+DT,May,Tamil Nadu,50,25,25,20,30,6.2,8,8
+DT,May,Uttar Pradesh,40,20,20,20,30,6.2,8,8
+DT,May,Uttar Pradesh,50,25,25,20,30,6.2,8,8
+DT,June,Andhra Pradesh,40,20,20,20,30,6.2,8,8
+DT,June,Andhra Pradesh,50,25,25,20,30,6.2,8,8
+DT,June,Gujarat,40,20,20,20,30,6.2,8,8
+DT,June,Gujarat,50,25,25,20,30,6.2,8,8
+DT,June,Haryana,40,20,20,20,30,6.2,8,8
+DT,June,Haryana,50,25,25,20,30,6.2,8,8
+DT,June,Karnataka,40,20,20,20,30,6.2,8,8
+DT,June,Karnataka,50,25,25,20,30,6.2,8,8
+DT,June,Madhya Pradesh,40,20,20,20,30,6.2,8,8
+DT,June,Madhya Pradesh,50,25,25,20,30,6.2,8,8
+DT,June,Maharashtra,40,20,20,20,30,6.2,8,8
+DT,June,Maharashtra,50,25,25,20,30,6.2,8,8
+DT,June,Rajasthan,40,20,20,20,30,6.2,8,8
+DT,June,Rajasthan,50,25,25,20,30,6.2,8,8
+DT,June,Tamil Nadu,40,20,20,20,30,6.2,8,8
+DT,June,Tamil Nadu,50,25,25,20,30,6.2,8,8
+DT,June,Uttar Pradesh,40,20,20,20,30,6.2,8,8
+DT,June,Uttar Pradesh,50,25,25,20,30,6.2,8,8
+DT,July,Andhra Pradesh,40,20,20,20,30,6.2,8,8
+DT,July,Andhra Pradesh,50,25,25,20,30,6.2,8,8
+DT,July,Gujarat,40,20,20,20,30,6.2,8,8
+DT,July,Gujarat,50,25,25,20,30,6.2,8,8
+DT,July,Haryana,40,20,20,20,30,6.2,8,8
+DT,July,Haryana,50,25,25,20,30,6.2,8,8
+DT,July,Karnataka,40,20,20,20,30,6.2,8,8
+DT,July,Karnataka,50,25,25,20,30,6.2,8,8
+DT,July,Madhya Pradesh,40,20,20,20,30,6.2,8,8
+DT,July,Madhya Pradesh,50,25,25,20,30,6.2,8,8
+DT,July,Maharashtra,40,20,20,20,30,6.2,8,8
+DT,July,Maharashtra,50,25,25,20,30,6.2,8,8
+DT,July,Rajasthan,40,20,20,20,30,6.2,8,8
+DT,July,Rajasthan,50,25,25,20,30,6.2,8,8
+DT,July,Tamil Nadu,40,20,20,20,30,6.2,8,8
+DT,July,Tamil Nadu,50,25,25,20,30,6.2,8,8
+DT,July,Uttar Pradesh,40,20,20,20,30,6.2,8,8
+DT,July,Uttar Pradesh,50,25,25,20,30,6.2,8,8
+DT,August,Andhra Pradesh,40,20,20,20,30,6.2,8,8
+DT,August,Andhra Pradesh,50,25,25,20,30,6.2,8,8
+DT,August,Gujarat,40,20,20,20,30,6.2,8,8
+DT,August,Gujarat,50,25,25,20,30,6.2,8,8
+DT,August,Haryana,40,20,20,20,30,6.2,8,8
+DT,August,Haryana,50,25,25,20,30,6.2,8,8
+DT,August,Karnataka,40,20,20,20,30,6.2,8,8
+DT,August,Karnataka,50,25,25,20,30,6.2,8,8
+DT,August,Madhya Pradesh,40,20,20,20,30,6.2,8,8
+DT,August,Madhya Pradesh,50,25,25,20,30,6.2,8,8
+DT,August,Maharashtra,40,20,20,20,30,6.2,8,8
+DT,August,Maharashtra,50,25,25,20,30,6.2,8,8
+DT,August,Rajasthan,40,20,20,20,30,6.2,8,8
+DT,August,Rajasthan,50,25,25,20,30,6.2,8,8
+DT,August,Tamil Nadu,40,20,20,20,30,6.2,8,8
+DT,August,Tamil Nadu,50,25,25,20,30,6.2,8,8
+DT,August,Uttar Pradesh,40,20,20,20,30,6.2,8,8
+DT,August,Uttar Pradesh,50,25,25,20,30,6.2,8,8
+RD,September,Andhra Pradesh,60,30,30,20,30,5,7,6
+RD,September,Karnataka,60,30,30,20,30,5,7,6
+RD,September,Maharashtra,60,30,30,20,30,5,7,6
+RD,September,Orissa,60,30,30,20,30,5,7,6
+RD,September,Rajasthan,60,30,30,20,30,5,7,6
+RD,September,Tamil Nadu,60,30,30,20,30,5,7,6
+RD,September,Uttarakhand,60,30,30,20,30,5,7,6
+RD,October,Andhra Pradesh,60,30,30,20,30,5,7,6
+RD,October,Karnataka,60,30,30,20,30,5,7,6
+RD,October,Maharashtra,60,30,30,20,30,5,7,6
+RD,October,Orissa,60,30,30,20,30,5,7,6
+RD,October,Rajasthan,60,30,30,20,30,5,7,6
+RD,October,Tamil Nadu,60,30,30,20,30,5,7,6
+RD,October,Uttarakhand,60,30,30,20,30,5,7,6
+RD,November,Andhra Pradesh,60,30,30,20,30,5,7,6
+RD,November,Karnataka,60,30,30,20,30,5,7,6
+RD,November,Maharashtra,60,30,30,20,30,5,7,6
+RD,November,Orissa,60,30,30,20,30,5,7,6
+RD,November,Rajasthan,60,30,30,20,30,5,7,6
+RD,November,Tamil Nadu,60,30,30,20,30,5,7,6
+RD,November,Uttarakhand,60,30,30,20,30,5,7,6
+RD,December,Andhra Pradesh,60,30,30,20,30,5,7,6
+RD,December,Karnataka,60,30,30,20,30,5,7,6
+RD,December,Maharashtra,60,30,30,20,30,5,7,6
+RD,December,Orissa,60,30,30,20,30,5,7,6
+RD,December,Rajasthan,60,30,30,20,30,5,7,6
+RD,December,Tamil Nadu,60,30,30,20,30,5,7,6
+RD,December,Uttarakhand,60,30,30,20,30,5,7,6
+BK,September,Andhra Pradesh,60,30,30,20,30,5,7,6
+BK,September,Karnataka,60,30,30,20,30,5,7,6
+BK,September,Maharashtra,60,30,30,20,30,5,7,6
+BK,September,Orissa,60,30,30,20,30,5,7,6
+BK,September,Rajasthan,60,30,30,20,30,5,7,6
+BK,September,Tamil Nadu,60,30,30,20,30,5,7,6
+BK,September,Uttarakhand,60,30,30,20,30,5,7,6
+BK,October,Andhra Pradesh,60,30,30,20,30,5,7,6
+BK,October,Karnataka,60,30,30,20,30,5,7,6
+BK,October,Maharashtra,60,30,30,20,30,5,7,6
+BK,October,Orissa,60,30,30,20,30,5,7,6
+BK,October,Rajasthan,60,30,30,20,30,5,7,6
+BK,October,Tamil Nadu,60,30,30,20,30,5,7,6
+BK,October,Uttarakhand,60,30,30,20,30,5,7,6
+BK,November,Andhra Pradesh,60,30,30,20,30,5,7,6
+BK,November,Karnataka,60,30,30,20,30,5,7,6
+BK,November,Maharashtra,60,30,30,20,30,5,7,6
+BK,November,Orissa,60,30,30,20,30,5,7,6
+BK,November,Rajasthan,60,30,30,20,30,5,7,6
+BK,November,Tamil Nadu,60,30,30,20,30,5,7,6
+BK,November,Uttarakhand,60,30,30,20,30,5,7,6
+BK,December,Andhra Pradesh,60,30,30,20,30,5,7,6
+BK,December,Karnataka,60,30,30,20,30,5,7,6
+BK,December,Maharashtra,60,30,30,20,30,5,7,6
+BK,December,Orissa,60,30,30,20,30,5,7,6
+BK,December,Rajasthan,60,30,30,20,30,5,7,6
+BK,December,Tamil Nadu,60,30,30,20,30,5,7,6
+BK,December,Uttarakhand,60,30,30,20,30,5,7,6
+BK,March,Andhra Pradesh,90,60,60,21,35,5.5,7.5,7
+BK,March,Bihar,90,60,60,21,35,5.5,7.5,7
+BK,March,Himachal Pradesh,90,60,60,21,35,5.5,7.5,7
+BK,March,Karnataka,90,60,60,21,35,5.5,7.5,7
+BK,March,Madhya Pradesh,90,60,60,21,35,5.5,7.5,7
+BK,March,Maharashtra,90,60,60,21,35,5.5,7.5,7
+BK,March,Orissa,90,60,60,21,35,5.5,7.5,7
+BK,March,Punjab,90,60,60,21,35,5.5,7.5,7
+BK,March,Rajasthan,90,60,60,21,35,5.5,7.5,7
+BK,March,Tamil Nadu,90,60,60,21,35,5.5,7.5,7
+BK,March,Uttar Pradesh,90,60,60,21,35,5.5,7.5,7
+BK,March,Jharkhand,90,60,60,21,35,5.5,7.5,7
+BK,April,Andhra Pradesh,90,60,60,21,35,5.5,7.5,7
+BK,April,Bihar,90,60,60,21,35,5.5,7.5,7
+BK,April,Himachal Pradesh,90,60,60,21,35,5.5,7.5,7
+BK,April,Karnataka,90,60,60,21,35,5.5,7.5,7
+BK,April,Madhya Pradesh,90,60,60,21,35,5.5,7.5,7
+BK,April,Maharashtra,90,60,60,21,35,5.5,7.5,7
+BK,April,Orissa,90,60,60,21,35,5.5,7.5,7
+BK,April,Punjab,90,60,60,21,35,5.5,7.5,7
+BK,April,Rajasthan,90,60,60,21,35,5.5,7.5,7
+BK,April,Tamil Nadu,90,60,60,21,35,5.5,7.5,7
+BK,April,Uttar Pradesh,90,60,60,21,35,5.5,7.5,7
+BK,April,Jharkhand,90,60,60,21,35,5.5,7.5,7
+BK,May,Andhra Pradesh,90,60,60,21,35,5.5,7.5,7
+BK,May,Bihar,90,60,60,21,35,5.5,7.5,7
+BK,May,Himachal Pradesh,90,60,60,21,35,5.5,7.5,7
+BK,May,Karnataka,90,60,60,21,35,5.5,7.5,7
+BK,May,Madhya Pradesh,90,60,60,21,35,5.5,7.5,7
+BK,May,Maharashtra,90,60,60,21,35,5.5,7.5,7
+BK,May,Orissa,90,60,60,21,35,5.5,7.5,7
+BK,May,Punjab,90,60,60,21,35,5.5,7.5,7
+BK,May,Rajasthan,90,60,60,21,35,5.5,7.5,7
+BK,May,Tamil Nadu,90,60,60,21,35,5.5,7.5,7
+BK,May,Uttar Pradesh,90,60,60,21,35,5.5,7.5,7
+BK,May,Jharkhand,90,60,60,21,35,5.5,7.5,7
+BK,June,Andhra Pradesh,90,60,60,21,35,5.5,7.5,7
+BK,June,Bihar,90,60,60,21,35,5.5,7.5,7
+BK,June,Himachal Pradesh,90,60,60,21,35,5.5,7.5,7
+BK,June,Karnataka,90,60,60,21,35,5.5,7.5,7
+BK,June,Madhya Pradesh,90,60,60,21,35,5.5,7.5,7
+BK,June,Maharashtra,90,60,60,21,35,5.5,7.5,7
+BK,June,Orissa,90,60,60,21,35,5.5,7.5,7
+BK,June,Punjab,90,60,60,21,35,5.5,7.5,7
+BK,June,Rajasthan,90,60,60,21,35,5.5,7.5,7
+BK,June,Tamil Nadu,90,60,60,21,35,5.5,7.5,7
+BK,June,Uttar Pradesh,90,60,60,21,35,5.5,7.5,7
+BK,June,Jharkhand,90,60,60,21,35,5.5,7.5,7
+BK,July,Andhra Pradesh,90,60,60,21,35,5.5,7.5,7
+BK,July,Bihar,90,60,60,21,35,5.5,7.5,7
+BK,July,Himachal Pradesh,90,60,60,21,35,5.5,7.5,7
+BK,July,Karnataka,90,60,60,21,35,5.5,7.5,7
+BK,July,Madhya Pradesh,90,60,60,21,35,5.5,7.5,7
+BK,July,Maharashtra,90,60,60,21,35,5.5,7.5,7
+BK,July,Orissa,90,60,60,21,35,5.5,7.5,7
+BK,July,Punjab,90,60,60,21,35,5.5,7.5,7
+BK,July,Rajasthan,90,60,60,21,35,5.5,7.5,7
+BK,July,Tamil Nadu,90,60,60,21,35,5.5,7.5,7
+BK,July,Uttar Pradesh,90,60,60,21,35,5.5,7.5,7
+BK,July,Jharkhand,90,60,60,21,35,5.5,7.5,7
+MN,January,Assam,300,0,300,16,32,4,6,5
+MN,January,Bihar,300,0,300,16,32,4,6,5
+MN,January,Himachal Pradesh,300,0,300,16,32,4,6,5
+MN,January,Karnataka,300,0,300,16,32,4,6,5
+MN,January,Kerala,300,0,300,16,32,4,6,5
+MN,January,Orissa,300,0,300,16,32,4,6,5
+MN,January,Tamil Nadu,300,0,300,16,32,4,6,5
+MN,January,West Bengal,300,0,300,16,32,4,6,5
+MN,January,Uttarakhand,300,0,300,16,32,4,6,5
+MN,February,Assam,300,0,300,16,32,4,6,5
+MN,February,Bihar,300,0,300,16,32,4,6,5
+MN,February,Himachal Pradesh,300,0,300,16,32,4,6,5
+MN,February,Karnataka,300,0,300,16,32,4,6,5
+MN,February,Kerala,300,0,300,16,32,4,6,5
+MN,February,Orissa,300,0,300,16,32,4,6,5
+MN,February,Tamil Nadu,300,0,300,16,32,4,6,5
+MN,February,West Bengal,300,0,300,16,32,4,6,5
+MN,February,Uttarakhand,300,0,300,16,32,4,6,5
+MN,March,Assam,300,0,300,16,32,4,6,5
+MN,March,Bihar,300,0,300,16,32,4,6,5
+MN,March,Himachal Pradesh,300,0,300,16,32,4,6,5
+MN,March,Karnataka,300,0,300,16,32,4,6,5
+MN,March,Kerala,300,0,300,16,32,4,6,5
+MN,March,Orissa,300,0,300,16,32,4,6,5
+MN,March,Tamil Nadu,300,0,300,16,32,4,6,5
+MN,March,West Bengal,300,0,300,16,32,4,6,5
+MN,March,Uttarakhand,300,0,300,16,32,4,6,5
+MN,April,Assam,300,0,300,16,32,4,6,5
+MN,April,Bihar,300,0,300,16,32,4,6,5
+MN,April,Himachal Pradesh,300,0,300,16,32,4,6,5
+MN,April,Karnataka,300,0,300,16,32,4,6,5
+MN,April,Kerala,300,0,300,16,32,4,6,5
+MN,April,Orissa,300,0,300,16,32,4,6,5
+MN,April,Tamil Nadu,300,0,300,16,32,4,6,5
+MN,April,West Bengal,300,0,300,16,32,4,6,5
+MN,April,Uttarakhand,300,0,300,16,32,4,6,5
+MN,May,Assam,300,0,300,16,32,4,6,5
+MN,May,Bihar,300,0,300,16,32,4,6,5
+MN,May,Himachal Pradesh,300,0,300,16,32,4,6,5
+MN,May,Karnataka,300,0,300,16,32,4,6,5
+MN,May,Kerala,300,0,300,16,32,4,6,5
+MN,May,Orissa,300,0,300,16,32,4,6,5
+MN,May,Tamil Nadu,300,0,300,16,32,4,6,5
+MN,May,West Bengal,300,0,300,16,32,4,6,5
+MN,May,Uttarakhand,300,0,300,16,32,4,6,5
+LT,January,Assam,300,0,300,16,32,4,6,5
+LT,January,Bihar,300,0,300,16,32,4,6,5
+LT,January,Himachal Pradesh,300,0,300,16,32,4,6,5
+LT,January,Karnataka,300,0,300,16,32,4,6,5
+LT,January,Kerala,300,0,300,16,32,4,6,5
+LT,January,Orissa,300,0,300,16,32,4,6,5
+LT,January,Tamil Nadu,300,0,300,16,32,4,6,5
+LT,January,West Bengal,300,0,300,16,32,4,6,5
+LT,January,Uttarakhand,300,0,300,16,32,4,6,5
+LT,February,Assam,300,0,300,16,32,4,6,5
+LT,February,Bihar,300,0,300,16,32,4,6,5
+LT,February,Himachal Pradesh,300,0,300,16,32,4,6,5
+LT,February,Karnataka,300,0,300,16,32,4,6,5
+LT,February,Kerala,300,0,300,16,32,4,6,5
+LT,February,Orissa,300,0,300,16,32,4,6,5
+LT,February,Tamil Nadu,300,0,300,16,32,4,6,5
+LT,February,West Bengal,300,0,300,16,32,4,6,5
+LT,February,Uttarakhand,300,0,300,16,32,4,6,5
+LT,March,Assam,300,0,300,16,32,4,6,5
+LT,March,Bihar,300,0,300,16,32,4,6,5
+LT,March,Himachal Pradesh,300,0,300,16,32,4,6,5
+LT,March,Karnataka,300,0,300,16,32,4,6,5
+LT,March,Kerala,300,0,300,16,32,4,6,5
+LT,March,Orissa,300,0,300,16,32,4,6,5
+LT,March,Tamil Nadu,300,0,300,16,32,4,6,5
+LT,March,West Bengal,300,0,300,16,32,4,6,5
+LT,March,Uttarakhand,300,0,300,16,32,4,6,5
+LT,April,Assam,300,0,300,16,32,4,6,5
+LT,April,Bihar,300,0,300,16,32,4,6,5
+LT,April,Himachal Pradesh,300,0,300,16,32,4,6,5
+LT,April,Karnataka,300,0,300,16,32,4,6,5
+LT,April,Kerala,300,0,300,16,32,4,6,5
+LT,April,Orissa,300,0,300,16,32,4,6,5
+LT,April,Tamil Nadu,300,0,300,16,32,4,6,5
+LT,April,West Bengal,300,0,300,16,32,4,6,5
+LT,April,Uttarakhand,300,0,300,16,32,4,6,5
+LT,May,Assam,300,0,300,16,32,4,6,5
+LT,May,Bihar,300,0,300,16,32,4,6,5
+LT,May,Himachal Pradesh,300,0,300,16,32,4,6,5
+LT,May,Karnataka,300,0,300,16,32,4,6,5
+LT,May,Kerala,300,0,300,16,32,4,6,5
+LT,May,Orissa,300,0,300,16,32,4,6,5
+LT,May,Tamil Nadu,300,0,300,16,32,4,6,5
+LT,May,West Bengal,300,0,300,16,32,4,6,5
+LT,May,Uttarakhand,300,0,300,16,32,4,6,5
+DT,September,Bihar,60,30,0,12,32,3,8,9
+DT,September,Haryana,60,30,0,12,32,3,8,9
+DT,September,Himachal Pradesh,60,30,0,12,32,3,8,9
+DT,September,Madhya Pradesh,60,30,0,12,32,3,8,9
+DT,September,Punjab,60,30,0,12,32,3,8,9
+DT,September,Rajasthan,60,30,0,12,32,3,8,9
+DT,September,Uttar Pradesh,60,30,0,12,32,3,8,9
+DT,September,Uttarakhand,60,30,0,12,32,3,8,9
+DT,October,Bihar,60,30,0,12,32,3,8,9
+DT,October,Haryana,60,30,0,12,32,3,8,9
+DT,October,Himachal Pradesh,60,30,0,12,32,3,8,9
+DT,October,Madhya Pradesh,60,30,0,12,32,3,8,9
+DT,October,Punjab,60,30,0,12,32,3,8,9
+DT,October,Rajasthan,60,30,0,12,32,3,8,9
+DT,October,Uttar Pradesh,60,30,0,12,32,3,8,9
+DT,October,Uttarakhand,60,30,0,12,32,3,8,9
+DT,November,Bihar,60,30,0,12,32,3,8,9
+DT,November,Haryana,60,30,0,12,32,3,8,9
+DT,November,Himachal Pradesh,60,30,0,12,32,3,8,9
+DT,November,Madhya Pradesh,60,30,0,12,32,3,8,9
+DT,November,Punjab,60,30,0,12,32,3,8,9
+DT,November,Rajasthan,60,30,0,12,32,3,8,9
+DT,November,Uttar Pradesh,60,30,0,12,32,3,8,9
+DT,November,Uttarakhand,60,30,0,12,32,3,8,9
+BK,June,Maharashtra,100,50,50,26,33,5.5,8.5,10
+BK,June,Maharashtra,100,50,40,16,33,5.5,8.5,10
+BK,July,Maharashtra,100,50,50,26,33,5.5,8.5,10
+BK,July,Maharashtra,100,50,40,16,33,5.5,8.5,10
+BK,September,Maharashtra,100,50,50,26,33,5.5,8.5,10
+BK,September,Maharashtra,100,50,40,16,33,5.5,8.5,10
+BK,October,Maharashtra,100,50,50,26,33,5.5,8.5,10
+BK,October,Maharashtra,100,50,40,16,33,5.5,8.5,10
+AL,June,Maharashtra,100,50,50,26,33,5.5,8.5,10
+AL,June,Maharashtra,100,50,40,16,33,5.5,8.5,10
+AL,July,Maharashtra,100,50,50,26,33,5.5,8.5,10
+AL,July,Maharashtra,100,50,40,16,33,5.5,8.5,10
+AL,September,Maharashtra,100,50,50,26,33,5.5,8.5,10
+AL,September,Maharashtra,100,50,40,16,33,5.5,8.5,10
+AL,October,Maharashtra,100,50,50,26,33,5.5,8.5,10
+AL,October,Maharashtra,100,50,40,16,33,5.5,8.5,10
+BK,June,Maharashtra,25,50,0,17,30,6.5,7.5,11
+BK,July,Maharashtra,25,50,0,17,30,6.5,7.5,11
+AL,June,Maharashtra,25,50,0,17,30,6.5,7.5,11
+AL,July,Maharashtra,25,50,0,17,30,6.5,7.5,11
+BK,October,Maharashtra,25,50,30,15,35,6.5,7.5,12
+BK,November,Maharashtra,25,50,30,15,35,6.5,7.5,12
+AL,October,Maharashtra,25,50,30,15,35,6.5,7.5,12
+AL,November,Maharashtra,25,50,30,15,35,6.5,7.5,12
+BK,March,Maharashtra,200,100,100,15,27,7,8.5,13
+BK,April,Maharashtra,200,100,100,15,27,7,8.5,13
+BK,June,Maharashtra,200,100,100,15,27,7,8.5,13
+BK,July,Maharashtra,200,100,100,15,27,7,8.5,13
+BK,August,Maharashtra,200,100,100,15,27,7,8.5,13
+BK,September,Maharashtra,200,100,100,15,27,7,8.5,13
+BK,October,Maharashtra,200,100,100,15,27,7,8.5,13
+BK,November,Maharashtra,200,100,100,15,27,7,8.5,13
+AL,March,Maharashtra,200,100,100,15,27,7,8.5,13
+AL,April,Maharashtra,200,100,100,15,27,7,8.5,13
+AL,June,Maharashtra,200,100,100,15,27,7,8.5,13
+AL,July,Maharashtra,200,100,100,15,27,7,8.5,13
+AL,August,Maharashtra,200,100,100,15,27,7,8.5,13
+AL,September,Maharashtra,200,100,100,15,27,7,8.5,13
+AL,October,Maharashtra,200,100,100,15,27,7,8.5,13
+AL,November,Maharashtra,200,100,100,15,27,7,8.5,13
+BK,February,Maharashtra,150,75,75,20,30,5.5,6.6,14
+BK,March,Maharashtra,150,75,75,20,30,5.5,6.6,14
+BK,July,Maharashtra,150,75,75,20,30,5.5,6.6,14
+BK,August,Maharashtra,150,75,75,20,30,5.5,6.6,14
+AL,February,Maharashtra,150,75,75,20,30,5.5,6.6,14
+AL,March,Maharashtra,150,75,75,20,30,5.5,6.6,14
+AL,July,Maharashtra,150,75,75,20,30,5.5,6.6,14
+AL,August,Maharashtra,150,75,75,20,30,5.5,6.6,14
+BK,January,Maharashtra,100,50,50,10,30,6,7,15
+BK,May,Maharashtra,100,50,50,10,30,6,7,15
+BK,June,Maharashtra,100,50,50,10,30,6,7,15
+BK,July,Maharashtra,100,50,50,10,30,6,7,15
+AL,January,Maharashtra,100,50,50,10,30,6,7,15
+AL,May,Maharashtra,100,50,50,10,30,6,7,15
+AL,June,Maharashtra,100,50,50,10,30,6,7,15
+AL,July,Maharashtra,100,50,50,10,30,6,7,15
+BK,July,Maharashtra,100,50,50,12,25,5.8,6.5,16
+BK,August,Maharashtra,100,50,50,12,25,5.8,6.5,16
+BK,September,Maharashtra,100,50,50,12,25,5.8,6.5,16
+BK,October,Maharashtra,100,50,50,12,25,5.8,6.5,16
+BK,November,Maharashtra,100,50,50,12,25,5.8,6.5,16
+BK,December,Maharashtra,100,50,50,12,25,5.8,6.5,16
+AL,July,Maharashtra,100,50,50,12,25,5.8,6.5,16
+AL,August,Maharashtra,100,50,50,12,25,5.8,6.5,16
+AL,September,Maharashtra,100,50,50,12,25,5.8,6.5,16
+AL,October,Maharashtra,100,50,50,12,25,5.8,6.5,16
+AL,November,Maharashtra,100,50,50,12,25,5.8,6.5,16
+AL,December,Maharashtra,100,50,50,12,25,5.8,6.5,16
+BK,October,Maharashtra,50,50,50,12,20,6,7,17
+BK,November,Maharashtra,50,50,50,12,20,6,7,17
+AL,October,Maharashtra,50,50,50,12,20,6,7,17
+AL,November,Maharashtra,50,50,50,12,20,6,7,17
+BK,January,Maharashtra,100,50,50,24,42,6,6.8,18
+BK,February,Maharashtra,100,50,50,24,42,6,6.8,18
+BK,June,Maharashtra,100,50,50,24,42,6,6.8,18
+BK,July,Maharashtra,100,50,50,24,42,6,6.8,18
+AL,January,Maharashtra,100,50,50,24,42,6,6.8,18
+AL,February,Maharashtra,100,50,50,24,42,6,6.8,18
+AL,June,Maharashtra,100,50,50,24,42,6,6.8,18
+AL,July,Maharashtra,100,50,50,24,42,6,6.8,18
+BK,January,Maharashtra,50,25,0,15,35,7.5,8,19
+BK,February,Maharashtra,50,25,0,15,35,7.5,8,19
+BK,March,Maharashtra,50,25,0,15,35,7.5,8,19
+BK,April,Maharashtra,50,25,0,15,35,7.5,8,19
+BK,September,Maharashtra,50,25,0,15,35,7.5,8,19
+BK,October,Maharashtra,50,25,0,15,35,7.5,8,19
+BK,November,Maharashtra,50,25,0,15,35,7.5,8,19
+BK,December,Maharashtra,50,25,0,15,35,7.5,8,19
+AL,January,Maharashtra,50,25,0,15,35,7.5,8,19
+AL,February,Maharashtra,50,25,0,15,35,7.5,8,19
+AL,March,Maharashtra,50,25,0,15,35,7.5,8,19
+AL,April,Maharashtra,50,25,0,15,35,7.5,8,19
+AL,September,Maharashtra,50,25,0,15,35,7.5,8,19
+AL,October,Maharashtra,50,25,0,15,35,7.5,8,19
+AL,November,Maharashtra,50,25,0,15,35,7.5,8,19
+AL,December,Maharashtra,50,25,0,15,35,7.5,8,19
+BK,February,Maharashtra,50,25,25,16,40,6.5,8.5,20
+BK,February,Maharashtra,60,30,30,16,40,6.5,8.5,20
+BK,July,Maharashtra,50,25,25,16,40,6.5,8.5,20
+BK,July,Maharashtra,60,30,30,16,40,6.5,8.5,20
+BK,October,Maharashtra,50,25,25,16,40,6.5,8.5,20
+BK,October,Maharashtra,60,30,30,16,40,6.5,8.5,20
+BK,November,Maharashtra,50,25,25,16,40,6.5,8.5,20
+BK,November,Maharashtra,60,30,30,16,40,6.5,8.5,20
+AL,February,Maharashtra,50,25,25,16,40,6.5,8.5,20
+AL,February,Maharashtra,60,30,30,16,40,6.5,8.5,20
+AL,July,Maharashtra,50,25,25,16,40,6.5,8.5,20
+AL,July,Maharashtra,60,30,30,16,40,6.5,8.5,20
+AL,October,Maharashtra,50,25,25,16,40,6.5,8.5,20
+AL,October,Maharashtra,60,30,30,16,40,6.5,8.5,20
+AL,November,Maharashtra,50,25,25,16,40,6.5,8.5,20
+AL,November,Maharashtra,60,30,30,16,40,6.5,8.5,20
+BK,January,Maharashtra,100,60,120,15,25,5.5,7.5,21
+BK,February,Maharashtra,100,60,120,15,25,5.5,7.5,21
+AL,January,Maharashtra,100,60,120,15,25,5.5,7.5,21
+AL,February,Maharashtra,100,60,120,15,25,5.5,7.5,21
