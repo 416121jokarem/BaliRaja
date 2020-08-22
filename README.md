@@ -16,3 +16,5 @@ Step 8: Start XAMPP server and Go to the browser and type localhost://Baliraja<b
 Note:<br />
 Create a FAST2SMS account and get an API key. Now change the same in the alert model(Alert.py).<br />
 Create an OpenWeather account and get an API key. Now change the same in the alert model(Alert.py).<br />
+
+# What runtime the developer need ?
